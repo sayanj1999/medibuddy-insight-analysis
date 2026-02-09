@@ -1,0 +1,1339 @@
+Policy_No,Children,Smoker,Region,Age,Sex,BMI,Charges_In_INR,BMI_Group,Age_Group
+PLC157006,0,no,southwest,23,male,34.4,1826.843,Obese,Young Adult
+PLC157033,1,no,southwest,19,male,24.6,1837.237,Normal,Young Adult
+PLC157060,0,no,southwest,56,male,40.3,10602.385,Obese,Middle Aged
+PLC157087,1,no,southwest,30,female,32.4,4149.736,Obese,Young Adult
+PLC157186,5,no,southwest,19,female,28.6,4687.797,Overweight,Young Adult
+PLC157231,0,no,southwest,26,male,20.8,2302.3,Normal,Young Adult
+PLC157303,0,no,southwest,55,male,37.3,20630.28351,Obese,Middle Aged
+PLC157483,0,no,southwest,19,female,28.9,1743.214,Overweight,Young Adult
+PLC157492,2,no,southwest,61,female,39.1,14235.072,Obese,Senior
+PLC157546,3,no,southwest,53,female,28.1,11741.726,Overweight,Middle Aged
+PLC157564,2,no,southwest,44,male,27.4,7726.854,Overweight,Adult
+PLC157681,0,no,southwest,56,female,27.2,11073.176,Overweight,Middle Aged
+PLC157762,3,no,southwest,54,female,30.8,12105.32,Obese,Middle Aged
+PLC157798,0,no,southwest,41,female,31.6,6186.127,Obese,Adult
+PLC157834,1,no,southwest,34,female,27.5,5003.853,Overweight,Adult
+PLC157852,1,no,southwest,19,female,28.4,2331.519,Overweight,Young Adult
+PLC157897,2,no,southwest,55,female,29.7,11881.358,Overweight,Middle Aged
+PLC157906,0,no,southwest,37,male,30.8,4646.759,Obese,Adult
+PLC157978,2,no,southwest,44,male,37.1,7740.337,Obese,Adult
+PLC158041,0,no,southwest,52,female,37.4,9634.538,Obese,Middle Aged
+PLC158059,2,no,southwest,38,male,34.7,6082.405,Obese,Adult
+PLC158086,2,no,southwest,53,female,35.9,11163.568,Obese,Middle Aged
+PLC158122,0,no,southwest,19,male,34.1,1261.442,Obese,Young Adult
+PLC158149,0,no,southwest,22,female,36.0,2166.732,Obese,Young Adult
+PLC158239,1,no,southwest,19,male,28.4,1842.519,Overweight,Young Adult
+PLC158356,1,no,southwest,54,male,39.6,10450.552,Obese,Middle Aged
+PLC158365,2,no,southwest,32,female,29.8,5152.134,Overweight,Adult
+PLC158392,5,no,southwest,20,female,37.0,4830.63,Obese,Young Adult
+PLC158437,0,no,southwest,49,male,30.3,8116.68,Obese,Middle Aged
+PLC158455,1,no,southwest,35,female,34.8,5246.047,Obese,Adult
+PLC158491,1,no,southwest,54,male,29.2,10436.096,Overweight,Middle Aged
+PLC158500,2,no,southwest,46,female,28.9,8823.279,Overweight,Middle Aged
+PLC158581,3,no,southwest,30,female,30.9,5325.651,Obese,Young Adult
+PLC158590,1,no,southwest,41,female,32.2,6775.961,Obese,Adult
+PLC158617,0,no,southwest,36,female,26.2,4883.866,Overweight,Adult
+PLC158662,0,no,southwest,39,female,32.8,5649.715,Obese,Adult
+PLC158734,0,no,southwest,46,male,22.3,7147.105,Normal,Middle Aged
+PLC158770,0,no,southwest,63,female,31.8,13880.949,Obese,Senior
+PLC158788,1,no,southwest,20,male,33.0,1980.07,Obese,Young Adult
+PLC158824,2,no,southwest,45,female,30.9,8520.026,Obese,Adult
+PLC158833,2,no,southwest,41,female,37.1,7371.772,Obese,Adult
+PLC158878,1,no,southwest,34,female,33.7,5012.471,Obese,Adult
+PLC158896,3,no,southwest,32,male,30.8,5253.524,Obese,Adult
+PLC158986,0,no,southwest,19,female,17.8,1727.785,Underweight,Young Adult
+PLC158995,1,no,southwest,59,male,27.5,12333.828,Overweight,Middle Aged
+PLC159076,1,no,southwest,55,female,26.8,35160.13457,Overweight,Middle Aged
+PLC159085,3,no,southwest,40,male,35.3,7196.867,Obese,Adult
+PLC159130,1,no,southwest,19,male,20.9,1832.094,Normal,Young Adult
+PLC159175,3,no,southwest,27,male,30.3,4260.744,Obese,Young Adult
+PLC159238,0,no,southwest,58,female,25.2,11837.16,Overweight,Middle Aged
+PLC159310,1,no,southwest,45,male,30.2,7441.053,Obese,Adult
+PLC159391,0,no,southwest,22,female,24.3,2150.469,Normal,Young Adult
+PLC159454,0,no,southwest,52,female,31.2,9625.92,Obese,Middle Aged
+PLC159508,0,no,southwest,28,female,33.4,3172.018,Obese,Young Adult
+PLC159544,3,no,southwest,25,male,26.8,3906.127,Overweight,Young Adult
+PLC159634,2,no,southwest,57,female,38.0,12646.207,Obese,Middle Aged
+PLC159652,2,no,southwest,28,female,27.5,20177.67113,Overweight,Young Adult
+PLC159688,0,no,southwest,50,male,26.6,8444.474,Overweight,Middle Aged
+PLC159697,0,no,southwest,19,female,24.7,1737.376,Normal,Young Adult
+PLC159814,0,no,southwest,29,male,27.2,2866.091,Overweight,Young Adult
+PLC159859,0,no,southwest,52,male,36.7,9144.565,Obese,Middle Aged
+PLC159913,0,no,southwest,64,male,34.5,13822.803,Obese,Senior
+PLC159958,0,no,southwest,24,female,27.6,18955.22017,Overweight,Young Adult
+PLC160057,0,no,southwest,50,female,25.6,8932.084,Overweight,Middle Aged
+PLC160066,0,no,southwest,30,female,27.7,3554.203,Overweight,Young Adult
+PLC160093,0,no,southwest,46,male,27.6,24603.04837,Overweight,Middle Aged
+PLC160147,1,no,southwest,35,male,30.5,4751.07,Obese,Adult
+PLC160165,1,no,southwest,21,female,26.4,2597.779,Overweight,Young Adult
+PLC160363,0,no,southwest,19,male,34.4,1261.859,Obese,Young Adult
+PLC160462,3,no,southwest,43,female,34.4,8522.003,Obese,Adult
+PLC160480,2,no,southwest,64,male,25.6,14988.432,Overweight,Senior
+PLC160498,0,no,southwest,51,female,20.6,9264.797,Normal,Middle Aged
+PLC160534,0,no,southwest,31,male,20.4,3260.199,Normal,Adult
+PLC160561,1,no,southwest,47,female,23.6,8539.671,Normal,Middle Aged
+PLC160615,5,no,southwest,25,male,23.9,5080.096,Normal,Young Adult
+PLC160714,2,no,southwest,48,male,30.2,8968.33,Obese,Middle Aged
+PLC160768,0,no,southwest,19,male,33.1,23082.95533,Obese,Young Adult
+PLC160786,0,no,southwest,42,male,26.9,5969.723,Overweight,Adult
+PLC160795,0,no,southwest,60,female,30.5,12638.195,Obese,Middle Aged
+PLC160831,3,no,southwest,35,male,28.9,5926.846,Overweight,Adult
+PLC160903,0,no,southwest,45,female,33.1,7345.084,Obese,Adult
+PLC160930,0,no,southwest,40,female,29.6,5910.944,Overweight,Adult
+PLC160939,1,no,southwest,35,male,38.6,4762.329,Obese,Adult
+PLC160948,4,no,southwest,39,male,29.6,7512.267,Overweight,Adult
+PLC160966,0,no,southwest,24,male,23.4,1969.614,Normal,Young Adult
+PLC160993,0,no,southwest,59,male,37.4,21797.0004,Obese,Middle Aged
+PLC161020,0,no,southwest,56,male,39.6,10601.412,Obese,Middle Aged
+PLC161092,1,no,southwest,60,female,28.7,13224.693,Overweight,Middle Aged
+PLC161146,0,no,southwest,19,female,29.8,1744.465,Overweight,Young Adult
+PLC161245,1,no,southwest,51,female,39.5,9880.068,Obese,Middle Aged
+PLC161254,3,no,southwest,48,male,34.3,9563.029,Obese,Middle Aged
+PLC161281,0,no,southwest,19,male,28.7,1253.936,Overweight,Young Adult
+PLC161308,0,no,southwest,19,female,32.9,1748.774,Obese,Young Adult
+PLC161335,0,no,southwest,61,male,43.4,12574.049,Obese,Senior
+PLC161362,2,no,southwest,31,female,23.6,4931.647,Normal,Adult
+PLC161371,2,no,southwest,45,male,28.7,8027.968,Overweight,Adult
+PLC161389,0,no,southwest,62,female,39.2,13470.86,Obese,Senior
+PLC161479,0,no,southwest,57,female,28.7,11455.28,Overweight,Middle Aged
+PLC161515,0,no,southwest,19,male,30.4,1256.299,Obese,Young Adult
+PLC161533,0,no,southwest,58,male,35.7,11362.755,Obese,Middle Aged
+PLC161560,1,no,southwest,35,female,31.0,5240.765,Obese,Adult
+PLC161641,1,no,southwest,51,female,25.8,9861.025,Overweight,Middle Aged
+PLC161722,3,no,southwest,33,female,38.9,5972.378,Obese,Adult
+PLC161731,2,no,southwest,46,female,30.2,8825.086,Obese,Middle Aged
+PLC161758,3,no,southwest,34,female,38.0,6196.448,Obese,Adult
+PLC161821,2,no,southwest,54,female,46.7,11538.421,Obese,Middle Aged
+PLC161848,0,no,southwest,63,male,30.8,13390.559,Obese,Senior
+PLC161866,0,no,southwest,62,male,21.4,12957.118,Normal,Senior
+PLC161893,2,no,southwest,28,male,23.8,3847.674,Normal,Young Adult
+PLC161956,0,no,southwest,27,male,30.5,2494.022,Obese,Young Adult
+PLC162010,5,no,southwest,49,female,31.9,11552.904,Obese,Middle Aged
+PLC162028,0,no,southwest,31,female,29.1,3761.292,Overweight,Adult
+PLC162100,1,no,southwest,52,male,30.2,9724.53,Obese,Middle Aged
+PLC162154,0,no,southwest,19,male,20.7,1242.816,Normal,Young Adult
+PLC162208,0,no,southwest,58,female,29.0,11842.442,Overweight,Middle Aged
+PLC162280,2,no,southwest,43,male,32.6,7441.501,Obese,Adult
+PLC162316,0,no,southwest,56,female,25.3,11070.535,Overweight,Middle Aged
+PLC162397,2,no,southwest,38,female,34.8,6571.544,Obese,Adult
+PLC162469,0,no,southwest,55,female,37.1,10713.644,Obese,Middle Aged
+PLC162478,1,no,southwest,30,male,31.4,3659.346,Obese,Young Adult
+PLC162496,1,no,southwest,49,female,21.3,9182.17,Normal,Middle Aged
+PLC162550,0,no,southwest,58,male,38.0,11365.952,Obese,Middle Aged
+PLC162568,1,no,southwest,53,male,36.1,10085.846,Obese,Middle Aged
+PLC162577,0,no,southwest,24,male,29.3,1977.815,Overweight,Young Adult
+PLC162604,1,no,southwest,51,male,39.7,9391.346,Obese,Middle Aged
+PLC162658,5,no,southwest,33,male,42.4,6666.243,Obese,Adult
+PLC162802,1,no,southwest,26,female,42.4,3410.324,Obese,Young Adult
+PLC162892,1,no,southwest,49,male,28.7,8703.456,Overweight,Middle Aged
+PLC163000,3,no,southwest,56,male,36.1,12363.547,Obese,Middle Aged
+PLC163018,1,no,southwest,21,female,17.4,2585.269,Underweight,Young Adult
+PLC163027,0,no,southwest,19,male,20.3,1242.26,Normal,Young Adult
+PLC163054,1,no,southwest,33,female,18.5,4766.022,Normal,Adult
+PLC163090,1,no,southwest,47,female,24.1,26236.57997,Normal,Middle Aged
+PLC163117,1,no,southwest,47,male,36.2,8068.185,Obese,Middle Aged
+PLC163144,1,no,southwest,27,female,34.8,3577.999,Obese,Young Adult
+PLC163243,2,no,southwest,33,female,32.9,5375.038,Obese,Adult
+PLC163324,0,no,southwest,24,female,22.6,2457.502,Normal,Young Adult
+PLC163333,0,no,southwest,60,male,28.9,12146.971,Overweight,Middle Aged
+PLC163387,3,no,southwest,53,male,36.6,11264.541,Obese,Middle Aged
+PLC163396,0,no,southwest,62,male,37.4,12979.358,Obese,Senior
+PLC163405,0,no,southwest,19,male,35.4,1263.249,Obese,Young Adult
+PLC163477,1,no,southwest,53,male,21.4,10065.413,Normal,Middle Aged
+PLC163486,3,no,southwest,24,female,30.1,4234.927,Obese,Young Adult
+PLC163504,3,no,southwest,59,female,32.1,14007.222,Obese,Middle Aged
+PLC163531,2,no,southwest,26,male,23.7,3484.331,Normal,Young Adult
+PLC163612,2,no,southwest,34,male,27.0,11737.84884,Overweight,Adult
+PLC163630,1,no,southwest,47,female,36.0,8556.907,Obese,Middle Aged
+PLC163747,1,no,southwest,23,male,35.2,2416.955,Obese,Young Adult
+PLC163792,1,no,southwest,47,male,32.3,8062.764,Obese,Middle Aged
+PLC163801,1,no,southwest,42,female,29.0,7050.642,Overweight,Adult
+PLC163810,0,no,southwest,64,female,39.7,14319.031,Obese,Senior
+PLC163828,3,no,southwest,61,male,36.1,27941.28758,Obese,Senior
+PLC163837,2,no,southwest,53,female,26.7,11150.78,Overweight,Middle Aged
+PLC163963,3,no,southwest,35,female,27.7,6414.178,Overweight,Adult
+PLC164017,0,no,southwest,19,male,27.6,1252.407,Overweight,Young Adult
+PLC164080,0,no,southwest,58,female,33.1,11848.141,Obese,Middle Aged
+PLC164116,1,no,southwest,21,male,22.3,2103.08,Normal,Young Adult
+PLC164188,3,no,southwest,46,female,30.8,9414.92,Obese,Middle Aged
+PLC164251,3,no,southwest,23,male,37.1,3597.596,Obese,Young Adult
+PLC164278,1,no,southwest,45,male,33.7,7445.918,Obese,Adult
+PLC164368,0,no,southwest,63,male,33.1,13393.756,Obese,Senior
+PLC164422,0,no,southwest,36,male,31.5,4402.233,Obese,Adult
+PLC164458,0,no,southwest,21,male,31.1,1526.312,Obese,Young Adult
+PLC164512,1,no,southwest,51,female,34.2,9872.701,Obese,Middle Aged
+PLC164530,0,no,southwest,27,female,24.1,2974.126,Normal,Young Adult
+PLC164593,0,no,southwest,20,female,29.6,1875.344,Overweight,Young Adult
+PLC164629,0,no,southwest,57,male,28.1,10965.446,Overweight,Middle Aged
+PLC164647,3,no,southwest,38,female,28.0,7151.092,Overweight,Adult
+PLC164674,0,no,southwest,51,male,25.4,8782.469,Overweight,Middle Aged
+PLC164683,2,no,southwest,40,male,29.9,6600.361,Overweight,Adult
+PLC164701,1,no,southwest,57,male,43.7,11576.13,Obese,Middle Aged
+PLC164719,3,no,southwest,25,female,24.3,4391.652,Normal,Young Adult
+PLC164728,0,no,southwest,50,male,36.2,8457.818,Obese,Middle Aged
+PLC164755,1,no,southwest,43,male,30.1,6849.026,Obese,Adult
+PLC164782,1,no,southwest,49,female,27.1,26140.3603,Overweight,Middle Aged
+PLC164800,1,no,southwest,41,male,28.8,6282.235,Overweight,Adult
+PLC164809,2,no,southwest,37,female,29.5,6311.952,Overweight,Adult
+PLC164818,3,no,southwest,22,male,34.8,3443.064,Obese,Young Adult
+PLC164890,0,no,southwest,22,male,39.5,1682.597,Obese,Young Adult
+PLC164953,0,no,southwest,61,female,44.0,13063.883,Obese,Senior
+PLC165034,0,no,southwest,60,female,35.1,12644.589,Obese,Middle Aged
+PLC165070,3,no,southwest,63,male,39.8,15170.069,Obese,Senior
+PLC165115,1,no,southwest,44,female,27.5,7626.993,Overweight,Adult
+PLC165160,0,no,southwest,61,female,28.2,13041.921,Overweight,Senior
+PLC165178,0,no,southwest,62,female,25.0,13451.122,Overweight,Senior
+PLC165187,0,no,southwest,62,female,33.2,13462.52,Obese,Senior
+PLC165196,1,no,southwest,38,male,31.0,5488.262,Obese,Adult
+PLC165214,0,no,southwest,43,male,23.2,6250.435,Normal,Adult
+PLC165232,2,no,southwest,19,female,23.4,2913.569,Normal,Young Adult
+PLC165241,1,no,southwest,57,female,20.1,12032.326,Normal,Middle Aged
+PLC165277,1,no,southwest,39,female,32.5,6238.298,Obese,Adult
+PLC165286,5,no,southwest,46,male,25.8,10096.97,Overweight,Middle Aged
+PLC165295,0,no,southwest,45,female,35.3,7348.142,Obese,Adult
+PLC165313,0,no,southwest,59,female,27.5,12233.828,Overweight,Middle Aged
+PLC165403,1,no,southwest,56,female,35.8,11674.13,Obese,Middle Aged
+PLC165412,2,no,southwest,42,male,35.8,7160.094,Obese,Adult
+PLC165547,0,no,southwest,29,female,25.9,3353.284,Overweight,Young Adult
+PLC165583,1,no,southwest,35,male,27.1,4746.344,Overweight,Adult
+PLC165655,0,no,southwest,19,female,40.5,1759.338,Obese,Young Adult
+PLC165763,1,no,southwest,44,female,25.8,7624.63,Overweight,Adult
+PLC165808,1,no,southwest,26,female,19.8,3378.91,Normal,Young Adult
+PLC165826,2,no,southwest,50,female,31.6,10118.424,Obese,Middle Aged
+PLC165862,3,no,southwest,39,female,34.1,7418.522,Obese,Adult
+PLC165916,0,no,southwest,24,male,25.8,1972.95,Overweight,Young Adult
+PLC165925,0,no,southwest,48,male,29.6,21232.18226,Overweight,Middle Aged
+PLC165988,0,no,southwest,48,female,22.8,8269.044,Normal,Middle Aged
+PLC166024,0,no,southwest,38,female,27.6,5383.536,Overweight,Adult
+PLC166051,2,no,southwest,26,female,34.2,3987.926,Obese,Young Adult
+PLC166078,0,no,southwest,51,male,37.0,8798.593,Obese,Middle Aged
+PLC166123,0,no,southwest,21,female,34.6,2020.177,Obese,Young Adult
+PLC166150,0,no,southwest,54,male,31.6,9850.432,Obese,Middle Aged
+PLC166213,3,no,southwest,54,female,23.0,12094.478,Normal,Middle Aged
+PLC166285,0,no,southwest,28,female,25.8,3161.454,Overweight,Young Adult
+PLC166402,0,no,southwest,48,female,28.9,8277.523,Overweight,Middle Aged
+PLC166474,4,no,southwest,29,female,25.6,5708.867,Overweight,Young Adult
+PLC166483,1,no,southwest,42,female,25.3,7045.499,Overweight,Adult
+PLC166582,1,no,southwest,47,female,32.0,8551.347,Obese,Middle Aged
+PLC166645,1,no,southwest,32,male,31.5,4076.497,Obese,Adult
+PLC166699,0,no,southwest,56,male,22.1,10577.087,Normal,Middle Aged
+PLC166726,3,no,southwest,23,male,32.7,3591.48,Obese,Young Adult
+PLC166744,4,no,southwest,50,female,33.7,11299.343,Obese,Middle Aged
+PLC166807,3,no,southwest,53,male,28.6,11253.421,Overweight,Middle Aged
+PLC166834,0,no,southwest,37,male,29.8,20420.60465,Overweight,Adult
+PLC166870,1,no,southwest,26,male,30.0,2904.088,Obese,Young Adult
+PLC167032,0,no,southwest,55,male,29.9,10214.636,Overweight,Middle Aged
+PLC167050,1,no,southwest,34,male,32.8,14358.36437,Obese,Adult
+PLC167059,0,no,southwest,19,female,18.6,1728.897,Normal,Young Adult
+PLC167077,2,no,southwest,27,male,45.9,3693.428,Obese,Young Adult
+PLC167122,1,no,southwest,44,female,25.0,7623.518,Overweight,Adult
+PLC167167,3,no,southwest,41,female,32.6,7954.517,Obese,Adult
+PLC167194,2,no,southwest,50,male,32.3,9630.397,Obese,Middle Aged
+PLC167230,1,no,southwest,55,male,21.5,10791.96,Normal,Middle Aged
+PLC167239,0,no,southwest,42,male,34.1,5979.731,Obese,Adult
+PLC167329,0,no,southwest,32,female,41.1,3989.841,Obese,Adult
+PLC167401,2,no,southwest,29,female,24.6,4529.477,Normal,Young Adult
+PLC167410,2,no,southwest,32,male,35.2,4670.64,Obese,Adult
+PLC167473,0,no,southwest,22,female,27.1,2154.361,Overweight,Young Adult
+PLC167491,1,no,southwest,40,female,27.4,6496.886,Overweight,Adult
+PLC167536,0,no,southwest,25,female,30.3,2632.992,Obese,Young Adult
+PLC167599,0,no,southwest,23,female,28.0,13126.67745,Overweight,Young Adult
+PLC167689,2,no,southwest,31,female,25.8,4934.705,Overweight,Adult
+PLC167752,2,no,southwest,59,female,34.8,36910.60803,Obese,Middle Aged
+PLC167779,1,no,southwest,59,male,37.1,12347.172,Obese,Middle Aged
+PLC167815,2,no,southwest,52,female,33.3,10806.839,Obese,Middle Aged
+PLC167995,0,no,southwest,58,male,23.3,11345.519,Normal,Middle Aged
+PLC168103,5,no,southwest,28,male,24.3,5615.369,Normal,Young Adult
+PLC168112,3,no,southwest,45,female,25.7,9101.798,Overweight,Adult
+PLC168121,4,no,southwest,33,male,29.4,6059.173,Overweight,Adult
+PLC168157,0,no,southwest,19,male,19.8,1241.565,Normal,Young Adult
+PLC168175,4,no,southwest,40,female,29.3,15828.82173,Overweight,Adult
+PLC168193,0,no,southwest,42,female,37.9,6474.013,Obese,Adult
+PLC168247,1,no,southwest,28,male,37.1,3277.161,Obese,Young Adult
+PLC168265,1,no,southwest,43,female,29.9,7337.748,Overweight,Adult
+PLC168292,0,no,southwest,55,female,30.5,10704.47,Obese,Middle Aged
+PLC168310,0,no,southwest,20,female,33.3,1880.487,Obese,Young Adult
+PLC168319,3,no,southwest,45,male,27.5,8615.3,Overweight,Adult
+PLC168373,0,no,southwest,57,male,23.7,10959.33,Normal,Middle Aged
+PLC168481,1,no,southwest,36,female,25.9,5472.449,Overweight,Adult
+PLC168553,1,no,southwest,20,male,22.0,1964.78,Normal,Young Adult
+PLC168616,1,no,southwest,25,female,20.8,3208.787,Normal,Young Adult
+PLC168679,2,no,southwest,41,male,32.2,6875.961,Obese,Adult
+PLC168706,1,no,southwest,34,male,42.9,4536.259,Obese,Adult
+PLC168742,0,no,southwest,19,female,20.6,1731.677,Normal,Young Adult
+PLC168859,2,no,southwest,52,male,38.6,10325.206,Obese,Middle Aged
+PLC168877,0,no,southwest,23,female,33.4,10795.93733,Obese,Young Adult
+PLC168886,3,no,southwest,52,female,44.7,11411.685,Obese,Middle Aged
+PLC168922,0,no,southwest,21,female,25.8,2007.945,Overweight,Young Adult
+PLC156907,1,no,southeast,18,male,33.77,1725.5523,Obese,Teen
+PLC156916,3,no,southeast,28,male,33.0,4449.462,Obese,Young Adult
+PLC156943,0,no,southeast,31,female,25.74,3756.6216,Overweight,Adult
+PLC156952,1,no,southeast,46,female,33.44,8240.5896,Obese,Middle Aged
+PLC157015,0,no,southeast,56,female,39.82,11090.7178,Obese,Middle Aged
+PLC157096,0,no,southeast,18,male,34.1,1137.011,Obese,Teen
+PLC157123,3,no,southeast,59,female,27.72,14001.1338,Overweight,Middle Aged
+PLC157267,2,no,southeast,31,female,36.63,4949.7587,Obese,Adult
+PLC157276,1,no,southeast,41,male,21.78,6272.4772,Normal,Adult
+PLC157285,2,no,southeast,37,female,30.8,6313.759,Obese,Adult
+PLC157330,0,no,southeast,60,female,24.53,12629.8967,Normal,Middle Aged
+PLC157447,4,no,southeast,25,male,33.66,4504.6624,Obese,Young Adult
+PLC157510,0,no,southeast,40,female,36.19,5920.1041,Obese,Adult
+PLC157555,1,no,southeast,58,male,32.01,11946.6259,Obese,Middle Aged
+PLC157582,1,no,southeast,29,female,29.59,3947.4131,Overweight,Young Adult
+PLC157591,0,no,southeast,21,male,35.53,1532.4697,Obese,Young Adult
+PLC157708,0,no,southeast,21,female,39.49,2026.9741,Obese,Young Adult
+PLC157753,1,no,southeast,28,female,37.62,3766.8838,Obese,Young Adult
+PLC157771,0,no,southeast,55,male,38.28,10226.2842,Obese,Middle Aged
+PLC157870,0,no,southeast,29,male,27.94,2867.1196,Overweight,Young Adult
+PLC157942,0,no,southeast,58,male,49.06,11381.3254,Obese,Middle Aged
+PLC157960,0,no,southeast,49,female,27.17,8601.3293,Overweight,Middle Aged
+PLC158113,0,no,southeast,22,female,28.05,2155.6815,Overweight,Young Adult
+PLC158140,3,no,southeast,54,female,31.9,27322.73386,Obese,Middle Aged
+PLC158203,3,no,southeast,29,female,38.83,5138.2567,Obese,Young Adult
+PLC158221,1,no,southeast,51,female,37.73,9877.6077,Obese,Middle Aged
+PLC158257,0,no,southeast,48,male,29.7,7789.635,Overweight,Middle Aged
+PLC158329,3,no,southeast,50,female,27.83,19749.38338,Overweight,Middle Aged
+PLC158428,0,no,southeast,63,male,41.47,13405.3903,Obese,Senior
+PLC158527,0,no,southeast,18,female,38.28,1631.8212,Obese,Teen
+PLC158554,2,no,southeast,44,male,30.69,7731.4271,Obese,Adult
+PLC158572,2,no,southeast,26,female,29.92,3981.9768,Overweight,Young Adult
+PLC158608,0,no,southeast,61,male,31.57,12557.6053,Obese,Senior
+PLC158626,0,no,southeast,25,male,25.74,2137.6536,Overweight,Young Adult
+PLC158644,0,no,southeast,18,male,34.43,1137.4697,Obese,Teen
+PLC158671,2,no,southeast,45,female,28.6,8516.829,Overweight,Adult
+PLC158707,1,no,southeast,48,female,32.23,8871.1517,Obese,Middle Aged
+PLC158752,0,no,southeast,59,male,26.4,11743.299,Overweight,Middle Aged
+PLC158815,1,no,southeast,34,female,26.73,5002.7827,Overweight,Adult
+PLC158851,0,no,southeast,27,male,23.1,2483.736,Normal,Young Adult
+PLC158860,1,no,southeast,26,female,29.92,3392.9768,Overweight,Young Adult
+PLC158869,0,no,southeast,24,female,23.21,25081.76784,Normal,Young Adult
+PLC158923,3,no,southeast,55,male,33.88,11987.1682,Obese,Middle Aged
+PLC158932,0,no,southeast,28,male,38.06,2689.4954,Obese,Young Adult
+PLC158941,0,no,southeast,58,female,41.91,24227.33724,Obese,Middle Aged
+PLC158977,3,no,southeast,59,female,27.83,14001.2867,Overweight,Middle Aged
+PLC159022,0,no,southeast,18,female,26.73,1615.7667,Overweight,Teen
+PLC159031,2,no,southeast,31,male,38.39,4463.2051,Obese,Adult
+PLC159049,1,no,southeast,44,male,38.06,7152.6714,Obese,Adult
+PLC159112,0,no,southeast,60,female,38.06,12648.7034,Obese,Middle Aged
+PLC159121,0,no,southeast,24,male,35.86,1986.9334,Obese,Young Adult
+PLC159211,0,no,southeast,38,female,40.15,5400.9805,Obese,Adult
+PLC159274,3,no,southeast,53,female,38.06,20462.99766,Obese,Middle Aged
+PLC159328,1,no,southeast,18,male,29.37,1719.4363,Overweight,Teen
+PLC159400,2,no,southeast,59,male,31.79,12928.7911,Obese,Middle Aged
+PLC159409,1,no,southeast,51,female,21.56,9855.1314,Normal,Middle Aged
+PLC159463,1,no,southeast,46,male,26.62,7742.1098,Overweight,Middle Aged
+PLC159499,3,no,southeast,52,male,26.4,25992.82104,Overweight,Middle Aged
+PLC159535,0,no,southeast,22,female,28.82,2156.7518,Overweight,Young Adult
+PLC159616,2,no,southeast,56,female,37.51,12265.5069,Obese,Middle Aged
+PLC159625,2,no,southeast,28,female,33.0,4349.462,Obese,Young Adult
+PLC159661,1,no,southeast,30,female,33.33,4151.0287,Obese,Young Adult
+PLC159715,0,no,southeast,49,male,35.86,8124.4084,Obese,Middle Aged
+PLC159832,1,no,southeast,27,female,23.21,3561.8889,Normal,Young Adult
+PLC159922,0,no,southeast,60,male,25.74,12142.5786,Overweight,Middle Aged
+PLC159949,1,no,southeast,46,female,27.72,8232.6388,Overweight,Middle Aged
+PLC159994,4,no,southeast,49,female,41.47,10977.2063,Obese,Middle Aged
+PLC160003,3,no,southeast,34,female,29.26,6184.2994,Overweight,Adult
+PLC160012,2,no,southeast,33,male,35.75,4889.9995,Obese,Adult
+PLC160030,1,no,southeast,36,female,29.92,5478.0368,Overweight,Adult
+PLC160084,0,no,southeast,18,female,38.28,14133.03775,Obese,Teen
+PLC160102,3,no,southeast,46,male,43.89,8944.1151,Obese,Middle Aged
+PLC160120,0,no,southeast,23,male,41.91,1837.2819,Obese,Young Adult
+PLC160129,0,no,southeast,18,female,20.79,1607.5101,Normal,Teen
+PLC160174,2,no,southeast,21,female,21.89,3180.5101,Normal,Young Adult
+PLC160264,0,no,southeast,20,male,33.33,1391.5287,Obese,Young Adult
+PLC160309,1,no,southeast,62,male,31.46,27000.98473,Obese,Senior
+PLC160336,0,no,southeast,55,male,33.0,20781.48892,Obese,Middle Aged
+PLC160345,2,no,southeast,35,female,43.34,5846.9176,Obese,Adult
+PLC160372,0,no,southeast,58,female,39.05,11856.4115,Obese,Middle Aged
+PLC160471,0,no,southeast,21,male,31.02,16586.49771,Obese,Young Adult
+PLC160489,0,no,southeast,18,female,38.17,1631.6683,Obese,Teen
+PLC160507,1,no,southeast,47,male,47.52,8083.9198,Obese,Middle Aged
+PLC160552,0,no,southeast,33,female,24.31,4185.0979,Normal,Adult
+PLC160570,3,no,southeast,38,male,21.12,6652.5288,Normal,Adult
+PLC160579,1,no,southeast,32,male,30.03,4074.4537,Obese,Adult
+PLC160633,1,no,southeast,43,female,35.64,7345.7266,Obese,Adult
+PLC160642,0,no,southeast,52,male,34.1,9140.951,Obese,Middle Aged
+PLC160660,1,no,southeast,64,male,39.16,14418.2804,Obese,Senior
+PLC160723,5,no,southeast,45,male,24.31,9788.8659,Normal,Adult
+PLC160813,3,no,southeast,60,male,33.11,13919.8229,Obese,Middle Aged
+PLC160840,5,no,southeast,52,female,46.75,12592.5345,Obese,Middle Aged
+PLC160876,0,no,southeast,18,male,43.01,1149.3959,Obese,Teen
+PLC160885,1,no,southeast,59,female,36.52,28287.89766,Obese,Middle Aged
+PLC160984,2,no,southeast,32,male,46.53,4686.3887,Obese,Adult
+PLC161002,2,no,southeast,55,female,30.14,11881.9696,Obese,Middle Aged
+PLC161029,3,no,southeast,40,female,33.0,7682.67,Obese,Adult
+PLC161038,3,no,southeast,49,female,36.63,10381.4787,Obese,Middle Aged
+PLC161119,1,no,southeast,18,female,24.09,2201.0971,Normal,Teen
+PLC161128,0,no,southeast,27,male,32.67,2497.0383,Obese,Young Adult
+PLC161200,0,no,southeast,21,male,36.85,1534.3045,Obese,Young Adult
+PLC161209,0,no,southeast,23,male,32.56,1824.2854,Obese,Young Adult
+PLC161227,2,no,southeast,49,male,37.51,9304.7019,Obese,Middle Aged
+PLC161236,0,no,southeast,18,female,31.35,1622.1885,Obese,Teen
+PLC161317,0,no,southeast,61,female,25.08,24513.09126,Overweight,Senior
+PLC161380,2,no,southeast,44,female,23.98,8211.1002,Normal,Adult
+PLC161434,1,no,southeast,38,female,28.93,5974.3847,Overweight,Adult
+PLC161497,0,no,southeast,27,male,33.66,2498.4144,Obese,Young Adult
+PLC161542,1,no,southeast,20,male,35.31,27724.28875,Obese,Young Adult
+PLC161587,0,no,southeast,32,female,44.22,3994.1778,Obese,Adult
+PLC161605,0,no,southeast,38,female,37.73,5397.6167,Obese,Adult
+PLC161623,0,no,southeast,18,female,33.88,11482.63485,Obese,Teen
+PLC161686,2,no,southeast,59,male,29.7,12925.886,Overweight,Middle Aged
+PLC161695,0,no,southeast,37,male,36.19,19214.70553,Obese,Adult
+PLC161704,0,no,southeast,64,male,40.48,13831.1152,Obese,Senior
+PLC161740,1,no,southeast,46,female,28.05,8233.0975,Overweight,Middle Aged
+PLC161749,0,no,southeast,53,male,31.35,27346.04207,Obese,Middle Aged
+PLC161767,2,no,southeast,20,female,31.79,3056.3881,Obese,Young Adult
+PLC161776,0,no,southeast,63,female,36.3,13887.204,Obese,Senior
+PLC161857,0,no,southeast,32,female,28.93,3972.9247,Overweight,Adult
+PLC161911,0,no,southeast,34,male,34.21,3935.1799,Obese,Adult
+PLC161965,1,no,southeast,50,male,44.77,9058.7303,Obese,Middle Aged
+PLC161974,2,no,southeast,18,female,32.12,2801.2588,Obese,Teen
+PLC162037,1,no,southeast,18,female,37.29,2219.4451,Obese,Teen
+PLC162046,2,no,southeast,30,female,43.12,4753.6368,Obese,Young Adult
+PLC162082,0,no,southeast,22,male,26.84,1664.9996,Overweight,Young Adult
+PLC162136,2,no,southeast,39,male,45.43,6356.2707,Obese,Adult
+PLC162145,1,no,southeast,32,female,23.65,17626.23951,Normal,Adult
+PLC162163,1,no,southeast,33,female,28.27,4779.6023,Overweight,Adult
+PLC162199,1,no,southeast,38,female,30.69,5976.8311,Obese,Adult
+PLC162226,2,no,southeast,20,male,31.13,2566.4707,Obese,Young Adult
+PLC162244,0,no,southeast,41,male,40.26,5709.1644,Obese,Adult
+PLC162262,2,no,southeast,42,female,29.48,7640.3092,Overweight,Adult
+PLC162298,0,no,southeast,18,female,39.16,1633.0444,Obese,Teen
+PLC162325,3,no,southeast,64,female,39.05,16085.1275,Obese,Senior
+PLC162343,0,no,southeast,51,female,34.1,9283.562,Obese,Middle Aged
+PLC162388,1,no,southeast,47,female,29.37,8547.6913,Overweight,Middle Aged
+PLC162424,0,no,southeast,20,female,33.0,1880.07,Obese,Young Adult
+PLC162541,1,no,southeast,33,male,42.46,11326.71487,Obese,Adult
+PLC162586,0,no,southeast,29,female,35.53,3366.6697,Obese,Young Adult
+PLC162649,4,no,southeast,56,male,33.66,12949.1554,Obese,Middle Aged
+PLC162694,2,no,southeast,43,male,35.31,18806.14547,Obese,Adult
+PLC162748,2,no,southeast,49,female,42.68,9800.8882,Obese,Middle Aged
+PLC162757,1,no,southeast,53,female,39.6,10579.711,Obese,Middle Aged
+PLC162766,0,no,southeast,48,female,31.13,8280.6227,Obese,Middle Aged
+PLC162775,2,no,southeast,45,female,36.3,8527.532,Obese,Adult
+PLC162784,0,no,southeast,59,female,35.2,12244.531,Obese,Middle Aged
+PLC162838,3,no,southeast,37,male,46.53,6435.6237,Obese,Adult
+PLC162847,1,no,southeast,57,female,23.98,22192.43711,Normal,Middle Aged
+PLC162865,0,no,southeast,18,male,33.66,1136.3994,Obese,Teen
+PLC162919,1,no,southeast,40,female,29.81,6500.2359,Overweight,Adult
+PLC162928,3,no,southeast,30,male,31.57,4837.5823,Obese,Young Adult
+PLC162946,0,no,southeast,36,male,29.7,4399.731,Overweight,Adult
+PLC162955,0,no,southeast,41,female,31.02,6185.3208,Obese,Adult
+PLC162982,3,no,southeast,55,female,40.81,12485.8009,Obese,Middle Aged
+PLC163081,0,no,southeast,40,male,41.69,5438.7491,Obese,Adult
+PLC163189,2,no,southeast,23,female,39.27,3500.6123,Obese,Young Adult
+PLC163198,0,no,southeast,21,female,34.87,2020.5523,Obese,Young Adult
+PLC163216,0,no,southeast,53,male,41.47,9504.3103,Obese,Middle Aged
+PLC163288,1,no,southeast,18,male,35.2,1727.54,Obese,Teen
+PLC163297,2,no,southeast,50,female,23.54,10107.2206,Normal,Middle Aged
+PLC163459,1,no,southeast,41,female,36.08,6781.3542,Obese,Adult
+PLC163585,0,no,southeast,31,female,26.62,3757.8448,Overweight,Adult
+PLC163675,0,no,southeast,58,female,22.77,11833.7823,Normal,Middle Aged
+PLC163873,3,no,southeast,51,male,33.33,10560.4917,Obese,Middle Aged
+PLC163900,3,no,southeast,35,male,34.32,5934.3798,Obese,Adult
+PLC163927,0,no,southeast,18,male,41.14,1146.7966,Obese,Teen
+PLC163936,1,no,southeast,51,male,35.97,9386.1613,Obese,Middle Aged
+PLC163954,1,no,southeast,31,female,29.26,4350.5144,Overweight,Adult
+PLC163999,0,no,southeast,62,female,29.92,13457.9608,Overweight,Senior
+PLC164008,0,no,southeast,39,female,41.8,5662.225,Obese,Adult
+PLC164062,2,no,southeast,30,male,44.22,4266.1658,Obese,Young Adult
+PLC164098,1,no,southeast,42,female,26.18,7046.7222,Overweight,Adult
+PLC164107,0,no,southeast,64,female,35.97,14313.8463,Obese,Senior
+PLC164134,0,no,southeast,23,male,26.51,1815.8759,Overweight,Young Adult
+PLC164170,0,no,southeast,18,male,30.14,1131.5066,Obese,Teen
+PLC164206,2,no,southeast,54,male,21.01,11013.7119,Normal,Middle Aged
+PLC164224,2,no,southeast,36,male,34.43,5584.3057,Obese,Adult
+PLC164233,0,no,southeast,20,female,31.46,1877.9294,Obese,Young Adult
+PLC164296,0,no,southeast,18,female,31.13,1621.8827,Obese,Teen
+PLC164305,2,no,southeast,44,female,29.81,8219.2039,Overweight,Adult
+PLC164413,2,no,southeast,42,male,35.97,7160.3303,Obese,Adult
+PLC164521,1,no,southeast,23,male,50.38,2438.0552,Obese,Young Adult
+PLC164620,1,no,southeast,25,female,32.23,18218.16139,Obese,Young Adult
+PLC164692,0,no,southeast,18,male,37.29,1141.4451,Obese,Teen
+PLC164737,1,no,southeast,26,female,29.48,3392.3652,Overweight,Young Adult
+PLC164746,0,no,southeast,42,male,24.86,5966.8874,Normal,Adult
+PLC164791,5,no,southeast,33,male,33.44,6653.7886,Obese,Adult
+PLC164917,4,no,southeast,36,female,29.04,7243.8136,Overweight,Adult
+PLC164980,0,no,southeast,18,female,40.26,1634.5734,Obese,Teen
+PLC165025,0,no,southeast,49,male,36.85,8125.7845,Obese,Middle Aged
+PLC165061,1,no,southeast,44,female,32.34,7633.7206,Obese,Adult
+PLC165133,0,no,southeast,24,female,33.99,2473.3341,Obese,Young Adult
+PLC165169,1,no,southeast,35,female,34.21,5245.2269,Obese,Adult
+PLC165250,0,no,southeast,62,female,39.16,13470.8044,Obese,Senior
+PLC165259,1,no,southeast,41,male,34.21,6289.7549,Obese,Adult
+PLC165268,1,no,southeast,26,male,46.53,2927.0647,Obese,Young Adult
+PLC165304,2,no,southeast,32,male,37.18,4673.3922,Obese,Adult
+PLC165340,2,no,southeast,18,male,26.18,2304.0022,Overweight,Teen
+PLC165349,0,no,southeast,53,male,29.48,9487.6442,Overweight,Middle Aged
+PLC165358,0,no,southeast,18,male,23.21,1121.8739,Normal,Teen
+PLC165367,1,no,southeast,50,female,46.09,9549.5651,Obese,Middle Aged
+PLC165394,0,no,southeast,62,male,39.93,12982.8747,Obese,Senior
+PLC165493,1,no,southeast,31,male,39.49,3875.7341,Obese,Adult
+PLC165556,1,no,southeast,63,female,35.2,14474.675,Obese,Senior
+PLC165619,5,no,southeast,39,female,34.32,8596.8278,Obese,Adult
+PLC165628,3,no,southeast,50,female,28.16,10702.6424,Overweight,Middle Aged
+PLC165664,0,no,southeast,26,male,35.42,2322.6218,Obese,Young Adult
+PLC165682,0,no,southeast,48,male,40.15,7804.1605,Obese,Middle Aged
+PLC165691,1,no,southeast,26,male,29.15,2902.9065,Overweight,Young Adult
+PLC165709,0,no,southeast,36,female,29.92,4889.0368,Overweight,Adult
+PLC165835,1,no,southeast,38,male,28.27,5484.4673,Overweight,Adult
+PLC165871,0,no,southeast,63,female,36.85,13887.9685,Obese,Senior
+PLC166006,4,no,southeast,61,female,33.33,36580.28216,Obese,Senior
+PLC166105,1,no,southeast,18,male,23.32,1711.0268,Normal,Teen
+PLC166114,1,no,southeast,47,female,45.32,8569.8618,Obese,Middle Aged
+PLC166411,0,no,southeast,45,female,31.79,17929.30337,Obese,Adult
+PLC166420,0,no,southeast,24,female,39.49,2480.9791,Obese,Young Adult
+PLC166438,0,no,southeast,24,male,32.01,1981.5819,Obese,Young Adult
+PLC166447,1,no,southeast,57,male,27.94,11554.2236,Overweight,Middle Aged
+PLC166492,2,no,southeast,48,male,37.29,8978.1851,Obese,Middle Aged
+PLC166519,1,no,southeast,54,female,31.9,10928.849,Obese,Middle Aged
+PLC166573,1,no,southeast,32,female,29.59,4562.8421,Overweight,Adult
+PLC166609,3,no,southeast,63,male,33.66,15161.5344,Obese,Senior
+PLC166618,2,no,southeast,18,male,21.78,11884.04858,Normal,Teen
+PLC166690,1,no,southeast,52,male,47.74,9748.9106,Obese,Middle Aged
+PLC166771,0,no,southeast,22,male,33.77,1674.6323,Obese,Young Adult
+PLC166789,1,no,southeast,25,female,33.99,3227.1211,Obese,Young Adult
+PLC166816,1,no,southeast,29,male,38.94,3471.4096,Obese,Young Adult
+PLC166825,0,no,southeast,58,male,36.08,11363.2832,Obese,Middle Aged
+PLC166843,0,no,southeast,54,female,31.24,10338.9316,Obese,Middle Aged
+PLC166879,3,no,southeast,45,male,20.35,8605.3615,Normal,Adult
+PLC166933,1,no,southeast,55,male,32.67,10807.4863,Obese,Middle Aged
+PLC166987,2,no,southeast,46,male,38.17,8347.1643,Obese,Middle Aged
+PLC167041,2,no,southeast,35,female,35.86,5836.5204,Obese,Adult
+PLC167068,5,no,southeast,39,female,23.87,8582.3023,Normal,Adult
+PLC167140,0,no,southeast,33,male,30.25,3704.3545,Obese,Adult
+PLC167158,1,no,southeast,50,male,37.07,9048.0273,Obese,Middle Aged
+PLC167176,0,no,southeast,52,female,24.86,27117.99378,Normal,Middle Aged
+PLC167185,2,no,southeast,39,male,32.34,6338.0756,Obese,Adult
+PLC167347,2,no,southeast,34,male,42.13,5124.1887,Obese,Adult
+PLC167356,1,no,southeast,30,male,38.83,18963.17192,Obese,Young Adult
+PLC167392,0,no,southeast,57,male,40.37,10982.5013,Obese,Middle Aged
+PLC167446,0,no,southeast,56,female,41.91,11093.6229,Obese,Middle Aged
+PLC167671,0,no,southeast,41,male,33.55,5699.8375,Obese,Adult
+PLC167797,2,no,southeast,39,male,34.1,23563.01618,Obese,Adult
+PLC167842,0,no,southeast,40,male,25.08,5415.6612,Overweight,Adult
+PLC167851,2,no,southeast,29,male,37.29,4058.1161,Obese,Young Adult
+PLC167887,2,no,southeast,40,male,24.97,6593.5083,Normal,Adult
+PLC167896,0,no,southeast,50,male,25.3,8442.667,Overweight,Middle Aged
+PLC167923,1,no,southeast,33,female,39.82,4795.6568,Obese,Adult
+PLC167941,2,no,southeast,42,male,37.18,7162.0122,Obese,Adult
+PLC167950,0,no,southeast,56,male,34.43,10594.2257,Obese,Middle Aged
+PLC168004,2,no,southeast,45,female,27.83,8515.7587,Overweight,Adult
+PLC168049,1,no,southeast,25,female,42.13,3238.4357,Obese,Young Adult
+PLC168085,0,no,southeast,28,female,33.11,3171.6149,Obese,Young Adult
+PLC168094,0,no,southeast,18,male,33.33,1135.9407,Obese,Teen
+PLC168130,0,no,southeast,18,female,39.82,1633.9618,Obese,Teen
+PLC168184,0,no,southeast,34,female,27.72,4415.1588,Overweight,Adult
+PLC168256,1,no,southeast,41,female,28.05,6770.1925,Overweight,Adult
+PLC168346,5,no,southeast,43,male,25.52,14478.33015,Overweight,Adult
+PLC168355,1,no,southeast,35,male,27.61,4747.0529,Overweight,Adult
+PLC168418,0,no,southeast,48,female,33.33,8283.6807,Obese,Middle Aged
+PLC168445,1,no,southeast,18,male,30.03,1720.3537,Obese,Teen
+PLC168499,1,no,southeast,44,male,34.32,7147.4728,Obese,Adult
+PLC168526,0,no,southeast,21,male,23.21,1515.3449,Normal,Young Adult
+PLC168571,2,no,southeast,28,female,26.51,4340.4409,Overweight,Young Adult
+PLC168643,0,no,southeast,24,female,27.72,2464.6188,Overweight,Young Adult
+PLC168751,0,no,southeast,18,male,53.13,1163.4627,Obese,Teen
+PLC168796,0,no,southeast,62,male,38.83,12981.3457,Obese,Senior
+PLC168841,1,no,southeast,51,male,30.03,9377.9047,Obese,Middle Aged
+PLC168868,2,no,southeast,57,female,25.74,12629.1656,Overweight,Middle Aged
+PLC168913,0,no,southeast,18,female,36.85,1629.8335,Obese,Teen
+PLC156925,0,no,northwest,33,male,22.705,21984.47061,Normal,Adult
+PLC156934,0,no,northwest,32,male,28.88,3866.8552,Overweight,Adult
+PLC156961,3,no,northwest,37,female,27.74,7281.5056,Overweight,Adult
+PLC156979,0,no,northwest,60,female,25.84,28923.13692,Overweight,Middle Aged
+PLC157114,2,no,northwest,37,male,28.025,6203.90175,Overweight,Adult
+PLC157141,2,no,northwest,55,female,32.775,12268.63225,Obese,Middle Aged
+PLC157150,1,no,northwest,23,male,17.385,2775.19215,Underweight,Young Adult
+PLC157195,0,no,northwest,63,male,28.31,13770.0979,Overweight,Senior
+PLC157213,0,no,northwest,19,male,20.425,1625.43375,Normal,Young Adult
+PLC157222,3,no,northwest,62,female,32.965,15612.19335,Obese,Senior
+PLC157321,0,no,northwest,28,female,34.77,3556.9223,Obese,Young Adult
+PLC157357,2,no,northwest,21,female,33.63,3579.8287,Obese,Young Adult
+PLC157384,3,no,northwest,40,female,28.69,8059.6791,Overweight,Adult
+PLC157429,2,no,northwest,34,female,37.335,5989.52365,Obese,Adult
+PLC157456,1,no,northwest,64,male,24.7,30166.61817,Normal,Senior
+PLC157465,1,no,northwest,28,female,25.935,4133.64165,Overweight,Young Adult
+PLC157501,1,no,northwest,40,male,26.315,6389.37785,Overweight,Adult
+PLC157573,0,no,northwest,57,male,34.01,11356.6609,Obese,Middle Aged
+PLC157609,0,no,northwest,41,female,32.965,6571.02435,Obese,Adult
+PLC157645,4,no,northwest,48,female,41.23,11033.6617,Obese,Middle Aged
+PLC157690,0,no,northwest,46,female,27.74,8026.6666,Overweight,Middle Aged
+PLC157699,0,no,northwest,55,female,26.98,11082.5772,Overweight,Middle Aged
+PLC157717,1,no,northwest,53,female,24.795,10942.13205,Normal,Middle Aged
+PLC157735,2,no,northwest,35,male,34.77,5729.0053,Obese,Adult
+PLC157861,2,no,northwest,26,male,30.875,3877.30425,Obese,Young Adult
+PLC157888,1,no,northwest,54,male,33.63,10825.2537,Obese,Middle Aged
+PLC157915,0,no,northwest,21,female,35.72,2404.7338,Obese,Young Adult
+PLC157969,2,no,northwest,37,female,23.37,6686.4313,Normal,Adult
+PLC157996,0,no,northwest,20,female,28.975,2257.47525,Overweight,Young Adult
+PLC158014,3,no,northwest,47,female,33.915,10115.00885,Obese,Middle Aged
+PLC158095,0,no,northwest,19,male,25.555,1632.56445,Overweight,Young Adult
+PLC158131,0,no,northwest,22,male,25.175,2045.68525,Overweight,Young Adult
+PLC158185,2,no,northwest,29,male,29.735,18157.876,Overweight,Young Adult
+PLC158230,1,no,northwest,53,female,37.43,10959.6947,Obese,Middle Aged
+PLC158248,1,no,northwest,35,male,24.13,5125.2157,Normal,Adult
+PLC158293,0,no,northwest,44,male,39.52,6948.7008,Obese,Adult
+PLC158374,0,no,northwest,37,male,29.64,5028.1466,Overweight,Adult
+PLC158401,3,no,northwest,32,female,33.155,6128.79745,Obese,Adult
+PLC158410,1,no,northwest,19,female,31.825,2719.27975,Obese,Young Adult
+PLC158464,0,no,northwest,24,female,33.345,2855.43755,Obese,Young Adult
+PLC158482,2,no,northwest,38,male,27.835,6455.86265,Overweight,Adult
+PLC158518,0,no,northwest,58,male,28.595,11735.87905,Overweight,Middle Aged
+PLC158545,0,no,northwest,44,female,26.41,7419.4779,Overweight,Adult
+PLC158599,2,no,northwest,29,female,32.11,4922.9159,Obese,Young Adult
+PLC158635,1,no,northwest,56,female,26.6,12044.342,Overweight,Middle Aged
+PLC158653,0,no,northwest,19,male,30.59,1639.5631,Obese,Young Adult
+PLC158680,0,no,northwest,51,female,18.05,9644.2525,Underweight,Middle Aged
+PLC158698,0,no,northwest,19,female,32.11,2130.6759,Obese,Young Adult
+PLC158716,0,no,northwest,60,female,24.035,13012.20865,Normal,Middle Aged
+PLC158797,4,no,northwest,40,male,30.875,8162.71625,Obese,Adult
+PLC158806,2,no,northwest,24,male,28.5,3537.703,Overweight,Young Adult
+PLC158842,0,no,northwest,53,female,26.6,10355.641,Overweight,Middle Aged
+PLC158968,1,no,northwest,42,female,36.195,7443.64305,Obese,Adult
+PLC159004,2,no,northwest,39,male,24.51,6710.1919,Normal,Adult
+PLC159103,0,no,northwest,54,male,30.02,24476.47851,Obese,Middle Aged
+PLC159220,4,no,northwest,51,male,24.415,11520.09985,Normal,Middle Aged
+PLC159346,2,no,northwest,41,male,37.05,7265.7025,Obese,Adult
+PLC159364,0,no,northwest,25,male,27.55,2523.1695,Overweight,Young Adult
+PLC159382,2,no,northwest,19,male,20.615,2803.69785,Normal,Young Adult
+PLC159481,0,no,northwest,63,female,26.22,14256.1928,Overweight,Senior
+PLC159589,1,no,northwest,48,female,28.88,9249.4952,Overweight,Middle Aged
+PLC159643,2,no,northwest,29,male,33.345,19442.3535,Obese,Young Adult
+PLC159679,2,no,northwest,41,female,33.06,7749.1564,Obese,Adult
+PLC159742,0,no,northwest,50,male,32.205,8835.26495,Obese,Middle Aged
+PLC159760,0,no,northwest,44,female,27.645,7421.19455,Overweight,Adult
+PLC159778,1,no,northwest,34,male,25.27,4894.7533,Overweight,Adult
+PLC159886,0,no,northwest,61,female,31.16,13429.0354,Obese,Senior
+PLC159931,1,no,northwest,62,male,27.55,13937.6665,Overweight,Senior
+PLC159967,0,no,northwest,62,male,30.02,13352.0998,Obese,Senior
+PLC160039,0,no,northwest,19,male,27.835,1635.73365,Overweight,Young Adult
+PLC160048,0,no,northwest,57,female,23.18,11830.6072,Normal,Middle Aged
+PLC160111,3,no,northwest,47,male,29.83,9620.3307,Overweight,Middle Aged
+PLC160201,2,no,northwest,42,female,24.985,8017.06115,Normal,Adult
+PLC160210,2,no,northwest,44,male,32.015,8116.26885,Obese,Adult
+PLC160228,0,no,northwest,61,female,21.09,13415.0381,Normal,Senior
+PLC160300,3,no,northwest,64,female,30.115,16455.70785,Obese,Senior
+PLC160381,2,no,northwest,50,male,25.365,30284.64294,Overweight,Middle Aged
+PLC160390,0,no,northwest,26,female,22.61,3176.8159,Normal,Young Adult
+PLC160399,3,no,northwest,24,female,30.21,4618.0799,Obese,Young Adult
+PLC160417,0,no,northwest,19,female,37.43,2138.0707,Obese,Young Adult
+PLC160453,0,no,northwest,46,male,19.855,7526.70645,Normal,Middle Aged
+PLC160516,0,no,northwest,64,female,32.965,14692.66935,Obese,Senior
+PLC160525,3,no,northwest,49,male,32.3,10269.46,Obese,Middle Aged
+PLC160588,0,no,northwest,19,male,17.48,1621.3402,Underweight,Young Adult
+PLC160624,0,no,northwest,19,female,35.15,2134.9015,Obese,Young Adult
+PLC160759,3,no,northwest,27,female,30.4,18804.7524,Obese,Young Adult
+PLC160777,2,no,northwest,29,female,20.235,4906.40965,Normal,Young Adult
+PLC160804,1,no,northwest,31,male,28.595,4243.59005,Overweight,Adult
+PLC160858,1,no,northwest,31,female,32.68,4738.2682,Obese,Adult
+PLC160921,0,no,northwest,56,female,25.65,11454.0215,Overweight,Middle Aged
+PLC160957,1,no,northwest,30,male,24.13,4032.2407,Normal,Young Adult
+PLC160975,0,no,northwest,20,male,29.735,1769.53165,Overweight,Young Adult
+PLC161011,0,no,northwest,57,female,30.495,11840.77505,Obese,Middle Aged
+PLC161074,0,no,northwest,19,male,25.175,1632.03625,Overweight,Young Adult
+PLC161101,2,no,northwest,56,female,33.82,12643.3778,Obese,Middle Aged
+PLC161191,0,no,northwest,25,male,35.625,2534.39375,Obese,Young Adult
+PLC161218,3,no,northwest,63,male,41.325,15555.18875,Obese,Senior
+PLC161272,3,no,northwest,54,female,21.47,12475.3513,Normal,Middle Aged
+PLC161299,1,no,northwest,53,male,31.16,10461.9794,Obese,Middle Aged
+PLC161443,3,no,northwest,37,male,30.875,6796.86325,Obese,Adult
+PLC161452,1,no,northwest,22,male,31.35,2643.2685,Obese,Young Adult
+PLC161461,2,no,northwest,21,male,23.75,3077.0955,Normal,Young Adult
+PLC161551,2,no,northwest,45,male,30.495,8413.46305,Obese,Adult
+PLC161632,2,no,northwest,19,female,30.59,24059.68019,Obese,Young Adult
+PLC161794,0,no,northwest,54,male,30.21,10231.4999,Obese,Middle Aged
+PLC161875,2,no,northwest,52,female,31.73,11187.6567,Obese,Middle Aged
+PLC161929,0,no,northwest,19,male,35.53,1646.4297,Obese,Young Adult
+PLC161938,2,no,northwest,46,female,19.95,9193.8385,Normal,Middle Aged
+PLC161983,0,no,northwest,19,female,30.495,2128.43105,Obese,Young Adult
+PLC161992,1,no,northwest,38,female,40.565,6373.55735,Obese,Adult
+PLC162001,2,no,northwest,41,male,30.59,7256.7231,Obese,Adult
+PLC162073,0,no,northwest,58,female,27.17,12222.8983,Overweight,Middle Aged
+PLC162127,0,no,northwest,19,male,30.59,1639.5631,Obese,Young Adult
+PLC162217,1,no,northwest,47,male,19.57,8428.0693,Normal,Middle Aged
+PLC162289,2,no,northwest,52,female,37.525,33471.97189,Obese,Middle Aged
+PLC162307,0,no,northwest,51,male,31.635,9174.13565,Obese,Middle Aged
+PLC162514,0,no,northwest,59,male,28.785,12129.61415,Overweight,Middle Aged
+PLC162523,0,no,northwest,29,female,26.03,3736.4647,Overweight,Young Adult
+PLC162622,1,no,northwest,19,female,24.51,2709.1119,Normal,Young Adult
+PLC162685,3,no,northwest,23,female,34.96,4466.6214,Obese,Young Adult
+PLC162712,1,no,northwest,39,male,26.22,6123.5688,Overweight,Adult
+PLC162811,2,no,northwest,27,male,33.155,4058.71245,Obese,Young Adult
+PLC162973,0,no,northwest,45,male,21.375,7222.78625,Normal,Adult
+PLC163009,2,no,northwest,49,female,23.18,10156.7832,Normal,Middle Aged
+PLC163045,0,no,northwest,53,male,24.32,9863.4718,Normal,Middle Aged
+PLC163126,1,no,northwest,20,male,32.395,2362.22905,Obese,Young Adult
+PLC163135,0,no,northwest,24,male,23.655,2352.96845,Normal,Young Adult
+PLC163153,0,no,northwest,26,female,40.185,3201.24515,Obese,Young Adult
+PLC163180,0,no,northwest,56,male,33.725,10976.24575,Obese,Middle Aged
+PLC163225,1,no,northwest,34,female,26.41,5385.3379,Overweight,Adult
+PLC163234,1,no,northwest,47,female,29.545,8930.93455,Overweight,Middle Aged
+PLC163261,3,no,northwest,49,male,28.69,10264.4421,Overweight,Middle Aged
+PLC163306,2,no,northwest,43,female,30.685,8310.83915,Obese,Adult
+PLC163342,1,no,northwest,49,female,22.61,9566.9909,Normal,Middle Aged
+PLC163351,1,no,northwest,60,male,24.32,13112.6048,Normal,Middle Aged
+PLC163360,2,no,northwest,51,female,36.67,10848.1343,Obese,Middle Aged
+PLC163369,0,no,northwest,58,female,33.44,12231.6136,Obese,Middle Aged
+PLC163432,1,no,northwest,41,male,28.405,6664.68595,Overweight,Adult
+PLC163513,1,no,northwest,49,female,34.77,9583.8933,Obese,Middle Aged
+PLC163594,0,no,northwest,50,male,26.41,8827.2099,Overweight,Middle Aged
+PLC163603,1,no,northwest,50,female,30.115,9910.35985,Obese,Middle Aged
+PLC163621,0,no,northwest,19,male,21.755,1627.28245,Normal,Young Adult
+PLC163639,0,no,northwest,28,male,30.875,3062.50825,Obese,Young Adult
+PLC163657,0,no,northwest,21,male,28.975,1906.35825,Overweight,Young Adult
+PLC163666,0,no,northwest,64,male,37.905,14210.53595,Obese,Senior
+PLC163783,0,no,northwest,57,female,31.825,11842.62375,Obese,Middle Aged
+PLC163819,2,no,northwest,38,female,19.475,6933.24225,Normal,Adult
+PLC163864,2,no,northwest,41,male,34.2,7261.741,Obese,Adult
+PLC163882,2,no,northwest,40,male,32.3,6986.697,Obese,Adult
+PLC163909,0,no,northwest,53,male,28.88,9869.8102,Overweight,Middle Aged
+PLC163981,0,no,northwest,21,male,36.86,1917.3184,Obese,Young Adult
+PLC164044,2,no,northwest,39,female,31.92,7209.4918,Obese,Adult
+PLC164143,0,no,northwest,45,female,35.815,7731.85785,Obese,Adult
+PLC164152,1,no,northwest,40,female,41.42,28476.73499,Obese,Adult
+PLC164161,0,no,northwest,19,female,36.575,2136.88225,Obese,Young Adult
+PLC164197,3,no,northwest,33,female,42.94,6360.9936,Obese,Adult
+PLC164242,0,no,northwest,24,female,24.225,2842.76075,Normal,Young Adult
+PLC164287,0,no,northwest,26,male,17.67,2680.9493,Underweight,Young Adult
+PLC164314,0,no,northwest,60,male,24.32,12523.6048,Normal,Middle Aged
+PLC164359,1,no,northwest,39,male,21.85,6117.4945,Normal,Adult
+PLC164377,0,no,northwest,36,female,25.84,5266.3656,Overweight,Adult
+PLC164386,2,no,northwest,28,female,23.845,4719.73655,Normal,Young Adult
+PLC164395,0,no,northwest,58,male,34.39,11743.9341,Obese,Middle Aged
+PLC164404,1,no,northwest,36,male,33.82,5377.4578,Obese,Adult
+PLC164449,0,no,northwest,59,female,31.35,12622.1795,Obese,Middle Aged
+PLC164539,0,no,northwest,55,male,32.775,10601.63225,Obese,Middle Aged
+PLC164557,2,no,northwest,61,male,32.3,14119.62,Obese,Senior
+PLC164656,2,no,northwest,55,female,33.535,12269.68865,Obese,Middle Aged
+PLC164773,0,no,northwest,23,female,28.12,2690.1138,Overweight,Young Adult
+PLC164827,1,no,northwest,23,male,27.36,2789.0574,Overweight,Young Adult
+PLC164854,4,no,northwest,25,male,26.695,4877.98105,Overweight,Young Adult
+PLC164881,0,no,northwest,36,female,30.02,5272.1758,Obese,Adult
+PLC164899,1,no,northwest,57,male,33.63,11945.1327,Obese,Middle Aged
+PLC164971,1,no,northwest,19,male,25.555,2221.56445,Overweight,Young Adult
+PLC164989,0,no,northwest,19,female,22.515,2117.33885,Normal,Young Adult
+PLC165088,1,no,northwest,22,male,28.31,2639.0429,Overweight,Young Adult
+PLC165106,3,no,northwest,59,female,26.695,14382.70905,Overweight,Middle Aged
+PLC165124,2,no,northwest,33,male,24.605,5257.50795,Normal,Adult
+PLC165205,0,no,northwest,34,male,35.815,4320.41085,Obese,Adult
+PLC165331,5,no,northwest,39,female,24.225,8965.79575,Normal,Adult
+PLC165385,0,no,northwest,19,male,22.61,1628.4709,Normal,Young Adult
+PLC165430,0,no,northwest,42,male,31.255,6358.77645,Obese,Adult
+PLC165466,1,no,northwest,30,female,28.405,4527.18295,Overweight,Young Adult
+PLC165511,1,no,northwest,24,male,26.79,12609.88702,Overweight,Young Adult
+PLC165529,1,no,northwest,48,male,36.67,28468.91901,Obese,Middle Aged
+PLC165538,1,no,northwest,19,female,39.615,2730.10785,Obese,Young Adult
+PLC165574,2,no,northwest,52,male,36.765,26467.09737,Obese,Middle Aged
+PLC165601,1,no,northwest,44,male,25.365,7518.02535,Overweight,Adult
+PLC165646,0,no,northwest,22,female,20.235,2527.81865,Normal,Young Adult
+PLC165772,3,no,northwest,43,male,30.115,8410.04685,Obese,Adult
+PLC165781,1,no,northwest,45,female,27.645,28340.18885,Overweight,Adult
+PLC165889,0,no,northwest,36,female,26.885,5267.81815,Overweight,Adult
+PLC165943,2,no,northwest,29,male,31.73,4433.3877,Obese,Young Adult
+PLC166015,1,no,northwest,48,male,32.3,8765.249,Obese,Middle Aged
+PLC166033,0,no,northwest,59,male,25.46,12124.9924,Overweight,Middle Aged
+PLC166042,1,no,northwest,19,female,24.605,2709.24395,Normal,Young Adult
+PLC166060,3,no,northwest,54,female,35.815,12495.29085,Obese,Middle Aged
+PLC166069,2,no,northwest,21,female,32.68,26018.95052,Obese,Young Adult
+PLC166141,0,no,northwest,23,male,18.715,21595.38229,Normal,Young Adult
+PLC166204,0,no,northwest,61,male,38.38,12950.0712,Obese,Senior
+PLC166249,2,no,northwest,19,male,27.265,22493.65964,Overweight,Young Adult
+PLC166330,1,no,northwest,25,female,22.515,3594.17085,Normal,Young Adult
+PLC166348,1,no,northwest,44,female,36.955,8023.13545,Obese,Adult
+PLC166384,0,no,northwest,27,female,21.47,3353.4703,Normal,Young Adult
+PLC166393,0,no,northwest,55,male,27.645,10594.50155,Overweight,Middle Aged
+PLC166429,1,no,northwest,32,male,33.82,4462.7218,Obese,Adult
+PLC166465,3,no,northwest,36,male,28.595,6548.19505,Overweight,Adult
+PLC166510,1,no,northwest,63,male,21.66,14349.8544,Normal,Senior
+PLC166546,0,no,northwest,21,male,31.255,1909.52745,Obese,Young Adult
+PLC166627,1,no,northwest,32,male,27.835,4454.40265,Overweight,Adult
+PLC166636,1,no,northwest,38,male,19.95,5855.9025,Normal,Adult
+PLC166654,2,no,northwest,62,female,30.495,15019.76005,Obese,Senior
+PLC166681,0,no,northwest,57,male,31.54,11353.2276,Obese,Middle Aged
+PLC166852,0,no,northwest,49,female,29.925,8988.15875,Overweight,Middle Aged
+PLC166861,2,no,northwest,50,female,26.22,10493.9458,Overweight,Middle Aged
+PLC166915,3,no,northwest,28,female,26.315,5312.16985,Overweight,Young Adult
+PLC166969,3,no,northwest,30,female,19.95,5693.4305,Normal,Young Adult
+PLC167023,0,no,northwest,63,female,25.08,14254.6082,Overweight,Senior
+PLC167095,0,no,northwest,52,female,18.335,9991.03765,Underweight,Middle Aged
+PLC167104,0,no,northwest,28,male,33.82,19673.33573,Obese,Young Adult
+PLC167113,3,no,northwest,50,female,28.12,11085.5868,Overweight,Middle Aged
+PLC167131,0,no,northwest,26,female,22.23,3176.2877,Normal,Young Adult
+PLC167203,3,no,northwest,52,male,32.775,11289.10925,Obese,Middle Aged
+PLC167221,0,no,northwest,20,female,31.92,2261.5688,Obese,Young Adult
+PLC167257,0,no,northwest,58,female,36.48,12235.8392,Obese,Middle Aged
+PLC167275,1,no,northwest,35,female,35.815,5630.45785,Obese,Adult
+PLC167284,4,no,northwest,48,female,27.93,11015.1747,Overweight,Middle Aged
+PLC167311,2,no,northwest,23,female,23.18,14426.07385,Normal,Young Adult
+PLC167338,1,no,northwest,43,female,34.58,7727.2532,Obese,Adult
+PLC167374,1,no,northwest,41,female,28.31,7153.5539,Overweight,Adult
+PLC167419,1,no,northwest,37,female,34.105,6112.35295,Obese,Adult
+PLC167455,2,no,northwest,38,male,29.26,6457.8434,Overweight,Adult
+PLC167464,2,no,northwest,29,male,32.11,4433.9159,Obese,Young Adult
+PLC167527,0,no,northwest,24,female,29.925,2850.68375,Overweight,Young Adult
+PLC167581,0,no,northwest,62,female,32.68,13844.7972,Obese,Senior
+PLC167608,2,no,northwest,31,female,32.775,5327.40025,Obese,Adult
+PLC167635,0,no,northwest,48,female,36.575,8671.19125,Obese,Middle Aged
+PLC167644,0,no,northwest,31,female,21.755,4134.08245,Normal,Adult
+PLC167653,3,no,northwest,19,female,27.93,18838.70366,Overweight,Young Adult
+PLC167680,1,no,northwest,40,male,29.355,6393.60345,Overweight,Adult
+PLC167698,2,no,northwest,37,male,24.32,6198.7518,Normal,Adult
+PLC167707,2,no,northwest,46,male,40.375,8733.22925,Obese,Middle Aged
+PLC167716,0,no,northwest,22,male,32.11,2055.3249,Obese,Young Adult
+PLC167743,1,no,northwest,35,male,17.86,5116.5004,Underweight,Adult
+PLC167788,1,no,northwest,36,male,30.875,5373.36425,Obese,Adult
+PLC167824,1,no,northwest,27,female,31.255,3956.07145,Obese,Young Adult
+PLC167869,3,no,northwest,38,female,30.21,7537.1639,Obese,Adult
+PLC167986,3,no,northwest,54,female,24.605,12479.70895,Normal,Middle Aged
+PLC168013,0,no,northwest,26,male,31.065,2699.56835,Obese,Young Adult
+PLC168031,0,no,northwest,58,female,28.215,12224.35085,Overweight,Middle Aged
+PLC168076,3,no,northwest,22,female,21.28,4296.2712,Normal,Young Adult
+PLC168202,3,no,northwest,51,female,36.385,11436.73815,Obese,Middle Aged
+PLC168211,1,no,northwest,54,female,27.645,11305.93455,Overweight,Middle Aged
+PLC168220,3,no,northwest,55,male,37.715,30063.58055,Obese,Middle Aged
+PLC168328,1,no,northwest,26,male,33.915,3292.52985,Obese,Young Adult
+PLC168337,0,no,northwest,25,female,34.485,3021.80915,Obese,Young Adult
+PLC168391,0,no,northwest,32,female,29.735,4357.04365,Overweight,Adult
+PLC168409,2,no,northwest,25,female,26.79,4189.1131,Overweight,Young Adult
+PLC168535,3,no,northwest,46,male,25.745,9301.89355,Overweight,Middle Aged
+PLC168580,2,no,northwest,33,male,27.455,5261.46945,Overweight,Adult
+PLC168589,1,no,northwest,19,female,25.745,2710.82855,Overweight,Young Adult
+PLC168688,1,no,northwest,42,male,26.315,6940.90985,Overweight,Adult
+PLC168697,0,no,northwest,33,female,26.695,4571.41305,Overweight,Adult
+PLC168769,2,no,northwest,39,female,26.315,7201.70085,Overweight,Adult
+PLC168778,3,no,northwest,31,male,31.065,5425.02335,Obese,Adult
+PLC168814,1,no,northwest,31,male,25.935,4239.89265,Overweight,Adult
+PLC168895,3,no,northwest,50,male,30.97,10600.5483,Obese,Middle Aged
+PLC156970,2,no,northeast,37,male,29.83,6406.4107,Overweight,Adult
+PLC156988,0,no,northeast,25,male,26.22,2721.3208,Overweight,Young Adult
+PLC157042,1,no,northeast,52,female,30.78,10797.3362,Obese,Middle Aged
+PLC157051,0,no,northeast,23,male,23.845,2395.17155,Normal,Young Adult
+PLC157078,0,no,northeast,60,female,36.005,13228.84695,Obese,Middle Aged
+PLC157132,0,no,northeast,63,female,23.085,14451.83515,Normal,Senior
+PLC157177,0,no,northeast,18,female,26.315,2198.18985,Overweight,Teen
+PLC157258,0,no,northeast,24,female,26.6,3046.062,Overweight,Young Adult
+PLC157294,1,no,northeast,38,male,37.05,6079.6715,Obese,Adult
+PLC157312,2,no,northeast,18,female,38.665,3393.35635,Obese,Teen
+PLC157348,0,no,northeast,18,female,35.625,2211.13075,Obese,Teen
+PLC157402,2,no,northeast,58,female,31.825,13607.36875,Obese,Middle Aged
+PLC157438,3,no,northeast,43,male,27.36,8606.2174,Overweight,Adult
+PLC157537,5,no,northeast,31,male,28.5,6799.458,Overweight,Adult
+PLC157600,0,no,northeast,22,female,39.805,2755.02095,Obese,Young Adult
+PLC157618,1,no,northeast,31,male,26.885,4441.21315,Overweight,Adult
+PLC157627,0,no,northeast,45,female,38.285,7935.29115,Obese,Adult
+PLC157807,0,no,northeast,30,male,25.46,3645.0894,Overweight,Young Adult
+PLC157816,0,no,northeast,18,female,30.115,21344.8467,Obese,Teen
+PLC157924,3,no,northeast,52,male,32.205,11488.31695,Obese,Middle Aged
+PLC157933,0,no,northeast,60,male,28.595,30259.99556,Overweight,Middle Aged
+PLC157987,0,no,northeast,18,male,23.75,1705.6245,Normal,Teen
+PLC158023,0,no,northeast,26,female,28.785,3385.39915,Overweight,Young Adult
+PLC158068,0,no,northeast,59,female,26.505,12815.44495,Overweight,Middle Aged
+PLC158077,0,no,northeast,61,female,22.04,13616.3586,Normal,Senior
+PLC158104,0,no,northeast,20,female,28.785,2457.21115,Overweight,Young Adult
+PLC158158,2,no,northeast,34,male,22.42,27375.90478,Normal,Adult
+PLC158167,1,no,northeast,26,male,32.49,3490.5491,Obese,Young Adult
+PLC158266,3,no,northeast,32,female,37.145,6334.34355,Obese,Adult
+PLC158284,1,no,northeast,40,female,25.46,7077.1894,Overweight,Adult
+PLC158383,4,no,northeast,47,male,28.215,10407.08585,Overweight,Middle Aged
+PLC158419,3,no,northeast,27,male,18.905,4827.90495,Normal,Young Adult
+PLC158446,0,no,northeast,18,male,15.96,1694.7964,Underweight,Teen
+PLC158509,3,no,northeast,41,female,33.155,8538.28845,Obese,Adult
+PLC158536,3,no,northeast,22,male,19.95,4005.4225,Normal,Young Adult
+PLC158689,0,no,northeast,64,female,39.33,14901.5167,Obese,Senior
+PLC158743,1,no,northeast,28,female,28.88,4337.7352,Overweight,Young Adult
+PLC158779,1,no,northeast,40,male,41.23,6610.1097,Obese,Adult
+PLC158887,0,no,northeast,53,female,33.25,10564.8845,Obese,Middle Aged
+PLC158950,1,no,northeast,41,female,31.635,7358.17565,Obese,Adult
+PLC158959,2,no,northeast,47,male,25.46,9225.2564,Overweight,Middle Aged
+PLC159067,1,no,northeast,33,female,22.135,5354.07465,Normal,Adult
+PLC159139,1,no,northeast,29,male,28.975,4040.55825,Overweight,Young Adult
+PLC159193,3,no,northeast,55,female,25.365,13047.33235,Overweight,Middle Aged
+PLC159301,3,no,northeast,59,female,32.395,14590.63205,Obese,Middle Aged
+PLC159319,1,no,northeast,49,male,25.84,9282.4806,Overweight,Middle Aged
+PLC159355,1,no,northeast,50,male,27.455,9617.66245,Overweight,Middle Aged
+PLC159373,2,no,northeast,47,female,26.6,9715.841,Overweight,Middle Aged
+PLC159436,1,no,northeast,30,male,27.645,4237.12655,Overweight,Young Adult
+PLC159445,1,no,northeast,55,female,32.395,11879.10405,Obese,Middle Aged
+PLC159472,2,no,northeast,46,female,48.07,9432.9253,Obese,Middle Aged
+PLC159517,1,no,northeast,29,male,29.64,20277.80751,Overweight,Young Adult
+PLC159553,0,no,northeast,18,male,22.99,1704.5681,Normal,Teen
+PLC159598,3,no,northeast,36,male,27.55,6746.7425,Overweight,Adult
+PLC159670,0,no,northeast,58,male,34.865,11944.59435,Obese,Middle Aged
+PLC159733,0,no,northeast,52,male,33.25,9722.7695,Obese,Middle Aged
+PLC159751,0,no,northeast,54,male,32.775,10435.06525,Obese,Middle Aged
+PLC159769,1,no,northeast,32,male,37.335,4667.60765,Obese,Adult
+PLC159787,4,no,northeast,26,female,29.64,24671.66334,Overweight,Young Adult
+PLC159805,0,no,northeast,57,male,40.945,11566.30055,Obese,Middle Aged
+PLC159823,1,no,northeast,40,male,34.105,6600.20595,Obese,Adult
+PLC159895,0,no,northeast,56,female,28.785,11658.37915,Overweight,Middle Aged
+PLC159904,2,no,northeast,43,female,35.72,19144.57652,Obese,Adult
+PLC159976,0,no,northeast,60,female,27.55,13217.0945,Overweight,Middle Aged
+PLC159985,0,no,northeast,63,male,36.765,13981.85035,Obese,Senior
+PLC160021,1,no,northeast,46,male,33.345,8334.45755,Obese,Middle Aged
+PLC160075,0,no,northeast,33,male,35.245,12404.8791,Obese,Adult
+PLC160138,2,no,northeast,48,female,32.3,10043.249,Obese,Middle Aged
+PLC160183,1,no,northeast,49,female,30.78,9778.3472,Obese,Middle Aged
+PLC160192,3,no,northeast,56,female,32.3,13430.265,Obese,Middle Aged
+PLC160219,3,no,northeast,18,male,30.4,3481.868,Obese,Teen
+PLC160237,0,no,northeast,57,female,22.23,12029.2867,Normal,Middle Aged
+PLC160246,1,no,northeast,42,female,33.155,7639.41745,Obese,Adult
+PLC160354,2,no,northeast,44,male,22.135,8302.53565,Normal,Adult
+PLC160408,4,no,northeast,48,male,35.625,10736.87075,Obese,Middle Aged
+PLC160426,1,no,northeast,48,male,31.445,8964.06055,Obese,Middle Aged
+PLC160435,1,no,northeast,49,male,31.35,9290.1395,Obese,Middle Aged
+PLC160444,2,no,northeast,46,female,32.3,9411.005,Obese,Middle Aged
+PLC160543,2,no,northeast,52,female,38.38,11396.9002,Obese,Middle Aged
+PLC160705,0,no,northeast,25,male,30.59,2727.3951,Obese,Young Adult
+PLC160732,1,no,northeast,38,female,27.265,6555.07035,Overweight,Adult
+PLC160741,0,no,northeast,18,female,29.165,7323.734819,Overweight,Teen
+PLC160750,1,no,northeast,21,female,16.815,3167.45585,Underweight,Young Adult
+PLC160822,0,no,northeast,22,male,31.73,2254.7967,Obese,Young Adult
+PLC160849,0,no,northeast,26,male,29.45,2897.3235,Overweight,Young Adult
+PLC160912,0,no,northeast,60,male,29.64,12730.9996,Overweight,Middle Aged
+PLC161056,2,no,northeast,62,female,38.095,15230.32405,Obese,Senior
+PLC161065,0,no,northeast,56,male,25.935,11165.41765,Overweight,Middle Aged
+PLC161110,1,no,northeast,28,female,24.32,23288.9284,Normal,Young Adult
+PLC161137,0,no,northeast,18,female,30.115,2203.47185,Obese,Teen
+PLC161155,0,no,northeast,47,female,33.345,20878.78443,Obese,Middle Aged
+PLC161263,0,no,northeast,31,female,31.065,4347.02335,Obese,Adult
+PLC161326,0,no,northeast,18,female,25.08,2196.4732,Overweight,Teen
+PLC161353,0,no,northeast,20,male,27.93,1967.0227,Overweight,Young Adult
+PLC161407,0,no,northeast,43,male,26.03,6837.3687,Overweight,Adult
+PLC161470,0,no,northeast,24,female,25.27,3044.2133,Overweight,Young Adult
+PLC161488,1,no,northeast,56,male,32.11,11763.0009,Obese,Middle Aged
+PLC161506,0,no,northeast,51,male,22.42,9361.3268,Normal,Middle Aged
+PLC161569,0,no,northeast,31,male,30.875,3857.75925,Obese,Adult
+PLC161578,0,no,northeast,50,female,27.36,25656.57526,Overweight,Middle Aged
+PLC161596,0,no,northeast,51,female,33.915,9866.30485,Obese,Middle Aged
+PLC161650,1,no,northeast,46,male,39.425,8342.90875,Obese,Middle Aged
+PLC161659,0,no,northeast,18,male,25.46,1708.0014,Overweight,Teen
+PLC161677,0,no,northeast,62,female,31.73,14043.4767,Obese,Senior
+PLC161713,1,no,northeast,38,male,28.025,6067.12675,Overweight,Adult
+PLC161812,0,no,northeast,28,male,35.435,3268.84665,Obese,Young Adult
+PLC161830,0,no,northeast,25,female,28.595,3213.62205,Overweight,Young Adult
+PLC161884,0,no,northeast,25,female,41.325,17878.90068,Obese,Young Adult
+PLC161902,1,no,northeast,46,male,33.44,8334.5896,Obese,Middle Aged
+PLC161947,0,no,northeast,54,female,32.68,10923.9332,Obese,Middle Aged
+PLC162055,1,no,northeast,62,female,36.86,31620.00106,Obese,Senior
+PLC162064,2,no,northeast,57,female,34.295,13224.05705,Obese,Middle Aged
+PLC162109,0,no,northeast,25,female,23.465,3206.49135,Normal,Young Adult
+PLC162118,1,no,northeast,59,male,25.46,12913.9924,Overweight,Middle Aged
+PLC162172,3,no,northeast,21,male,20.235,3861.20965,Normal,Young Adult
+PLC162190,0,no,northeast,61,female,35.91,13635.6379,Obese,Senior
+PLC162253,1,no,northeast,46,female,33.725,8823.98575,Obese,Middle Aged
+PLC162271,1,no,northeast,34,female,33.25,5594.8455,Obese,Adult
+PLC162352,0,no,northeast,27,female,25.175,3558.62025,Overweight,Young Adult
+PLC162370,2,no,northeast,28,male,26.98,4435.0942,Overweight,Young Adult
+PLC162406,0,no,northeast,18,female,33.155,2207.69745,Obese,Teen
+PLC162415,3,no,northeast,34,female,19.0,6753.038,Normal,Adult
+PLC162442,0,no,northeast,56,female,28.595,11658.11505,Overweight,Middle Aged
+PLC162532,3,no,northeast,36,male,28.88,6748.5912,Overweight,Adult
+PLC162595,2,no,northeast,40,male,22.705,7173.35995,Normal,Adult
+PLC162613,0,no,northeast,64,male,38.19,14410.9321,Obese,Senior
+PLC162631,2,no,northeast,35,female,38.095,24915.04626,Obese,Adult
+PLC162676,0,no,northeast,61,male,33.915,13143.86485,Obese,Senior
+PLC162703,3,no,northeast,48,male,30.78,10141.1362,Obese,Middle Aged
+PLC162721,3,no,northeast,40,female,23.37,8252.2843,Normal,Adult
+PLC162730,0,no,northeast,18,male,28.5,1712.227,Overweight,Teen
+PLC162739,0,no,northeast,58,female,32.965,12430.95335,Obese,Middle Aged
+PLC162820,1,no,northeast,48,female,35.91,26392.26029,Obese,Middle Aged
+PLC162829,4,no,northeast,57,female,28.785,14394.39815,Overweight,Middle Aged
+PLC162856,1,no,northeast,32,female,31.54,5148.5526,Obese,Adult
+PLC162937,0,no,northeast,29,female,31.16,3943.5954,Obese,Young Adult
+PLC163063,2,no,northeast,53,male,26.41,11244.3769,Overweight,Middle Aged
+PLC163072,2,no,northeast,42,male,26.125,7729.64575,Overweight,Adult
+PLC163108,0,no,northeast,21,male,27.36,2104.1134,Overweight,Young Adult
+PLC163162,2,no,northeast,53,female,32.3,29186.48236,Obese,Middle Aged
+PLC163207,0,no,northeast,50,female,44.745,9541.69555,Obese,Middle Aged
+PLC163270,3,no,northeast,31,female,30.495,6113.23105,Obese,Adult
+PLC163279,0,no,northeast,36,female,27.74,5469.0066,Overweight,Adult
+PLC163315,0,no,northeast,20,male,40.47,1984.4533,Obese,Young Adult
+PLC163378,0,no,northeast,51,female,40.66,9875.6804,Obese,Middle Aged
+PLC163414,1,no,northeast,50,female,27.075,10106.13425,Overweight,Middle Aged
+PLC163450,0,no,northeast,18,female,40.28,2217.6012,Obese,Teen
+PLC163495,1,no,northeast,48,female,27.265,9447.25035,Overweight,Middle Aged
+PLC163558,2,no,northeast,45,male,24.035,8604.48365,Normal,Adult
+PLC163684,4,no,northeast,24,male,33.63,17128.42608,Obese,Young Adult
+PLC163693,2,no,northeast,31,male,27.645,5031.26955,Overweight,Adult
+PLC163702,3,no,northeast,39,female,22.8,7985.815,Normal,Adult
+PLC163720,3,no,northeast,30,male,37.43,5428.7277,Obese,Young Adult
+PLC163738,2,no,northeast,22,female,34.58,3925.7582,Obese,Young Adult
+PLC163765,0,no,northeast,27,male,26.03,3070.8087,Overweight,Young Adult
+PLC163774,2,no,northeast,45,female,25.175,9095.06825,Overweight,Adult
+PLC163846,0,no,northeast,44,female,36.48,12797.20962,Obese,Adult
+PLC163891,0,no,northeast,45,male,39.805,7448.40395,Obese,Adult
+PLC163972,0,no,northeast,60,male,36.955,12741.16745,Obese,Middle Aged
+PLC163990,3,no,northeast,29,male,22.515,5209.57885,Normal,Young Adult
+PLC164026,0,no,northeast,22,female,23.18,2731.9122,Normal,Young Adult
+PLC164071,1,no,northeast,30,female,22.895,4719.52405,Normal,Young Adult
+PLC164179,1,no,northeast,25,male,25.84,3309.7926,Overweight,Young Adult
+PLC164215,2,no,northeast,28,male,22.515,4428.88785,Normal,Young Adult
+PLC164323,2,no,northeast,64,female,31.825,16069.08475,Obese,Senior
+PLC164431,0,no,northeast,56,female,28.31,11657.7189,Overweight,Middle Aged
+PLC164440,2,no,northeast,35,female,23.465,6402.29135,Normal,Adult
+PLC164467,0,no,northeast,59,male,24.7,12323.936,Normal,Middle Aged
+PLC164494,0,no,northeast,53,male,30.495,10072.05505,Obese,Middle Aged
+PLC164575,2,no,northeast,53,female,23.75,11729.6795,Normal,Middle Aged
+PLC164665,0,no,northeast,36,female,19.855,5458.04645,Normal,Adult
+PLC164710,0,no,northeast,61,male,23.655,13129.60345,Normal,Senior
+PLC164764,3,no,northeast,44,male,21.85,8891.1395,Normal,Adult
+PLC164836,0,no,northeast,21,female,22.135,2585.85065,Normal,Young Adult
+PLC164926,0,no,northeast,54,male,24.035,10422.91665,Normal,Middle Aged
+PLC164944,0,no,northeast,62,male,32.11,13555.0049,Obese,Senior
+PLC164998,0,no,northeast,49,male,22.515,8688.85885,Normal,Middle Aged
+PLC165016,3,no,northeast,26,male,27.265,4661.28635,Overweight,Young Adult
+PLC165043,2,no,northeast,26,female,29.355,4564.19145,Overweight,Young Adult
+PLC165052,3,no,northeast,27,male,32.585,4846.92015,Obese,Young Adult
+PLC165223,2,no,northeast,50,male,32.11,25333.33284,Obese,Middle Aged
+PLC165322,2,no,northeast,44,male,29.735,32108.66282,Overweight,Adult
+PLC165376,0,no,northeast,18,female,40.185,2217.46915,Obese,Teen
+PLC165448,0,no,northeast,57,male,18.335,11534.87265,Underweight,Middle Aged
+PLC165565,3,no,northeast,46,male,24.795,9500.57305,Normal,Middle Aged
+PLC165610,2,no,northeast,21,male,25.745,3279.86855,Overweight,Young Adult
+PLC165637,0,no,northeast,34,female,23.56,4992.3764,Normal,Adult
+PLC165700,3,no,northeast,45,female,39.995,9704.66805,Obese,Adult
+PLC165718,1,no,northeast,54,male,25.46,25517.11363,Overweight,Middle Aged
+PLC165727,0,no,northeast,34,male,21.375,4500.33925,Normal,Adult
+PLC165745,1,no,northeast,27,female,30.59,16796.41194,Obese,Young Adult
+PLC165754,5,no,northeast,20,male,30.115,4915.05985,Obese,Young Adult
+PLC165790,0,no,northeast,34,male,34.675,4518.82625,Obese,Adult
+PLC165817,2,no,northeast,38,female,27.835,7144.86265,Overweight,Adult
+PLC165853,3,no,northeast,39,female,23.275,7986.47525,Normal,Adult
+PLC165880,3,no,northeast,33,female,36.29,6551.7501,Obese,Adult
+PLC165934,1,no,northeast,47,male,19.19,8627.5411,Normal,Middle Aged
+PLC165952,2,no,northeast,28,male,29.26,4438.2634,Overweight,Young Adult
+PLC165970,2,no,northeast,25,male,24.985,23241.47453,Normal,Young Adult
+PLC165979,1,no,northeast,51,male,27.74,9957.7216,Overweight,Middle Aged
+PLC166159,2,no,northeast,37,female,17.29,6877.9801,Underweight,Adult
+PLC166186,0,no,northeast,30,female,27.93,4137.5227,Overweight,Young Adult
+PLC166240,0,no,northeast,22,male,28.88,2250.8352,Overweight,Young Adult
+PLC166267,0,no,northeast,18,male,23.085,1704.70015,Normal,Teen
+PLC166294,1,no,northeast,55,male,35.245,11394.06555,Obese,Middle Aged
+PLC166312,0,no,northeast,43,female,25.08,7325.0482,Overweight,Adult
+PLC166357,0,no,northeast,64,male,26.41,14394.5579,Overweight,Senior
+PLC166366,1,no,northeast,49,male,29.83,9288.0267,Overweight,Middle Aged
+PLC166501,0,no,northeast,39,male,42.655,5757.41345,Obese,Adult
+PLC166537,0,no,northeast,63,male,31.445,13974.45555,Obese,Senior
+PLC166555,2,no,northeast,54,female,28.88,12096.6512,Overweight,Middle Aged
+PLC166564,0,no,northeast,60,female,18.335,13204.28565,Underweight,Middle Aged
+PLC166591,0,no,northeast,21,male,26.03,2102.2647,Overweight,Young Adult
+PLC166672,0,no,northeast,55,male,28.975,10796.35025,Overweight,Middle Aged
+PLC166717,0,no,northeast,55,female,29.83,11286.5387,Overweight,Middle Aged
+PLC166753,4,no,northeast,18,female,31.35,4561.1885,Obese,Teen
+PLC166780,0,no,northeast,52,female,30.875,23045.56616,Obese,Middle Aged
+PLC166888,1,no,northeast,54,female,32.3,11512.405,Obese,Middle Aged
+PLC166924,0,no,northeast,23,male,24.51,2396.0959,Normal,Young Adult
+PLC166942,5,no,northeast,41,male,29.64,9222.4026,Overweight,Adult
+PLC167005,1,no,northeast,27,female,32.395,18903.49141,Obese,Young Adult
+PLC167086,0,no,northeast,57,male,40.28,20709.02034,Obese,Middle Aged
+PLC167248,0,no,northeast,18,female,30.305,2203.73595,Obese,Teen
+PLC167293,3,no,northeast,36,female,22.135,7228.21565,Normal,Adult
+PLC167320,0,no,northeast,20,female,30.59,2459.7201,Obese,Young Adult
+PLC167365,0,no,northeast,18,female,28.215,2200.83085,Overweight,Teen
+PLC167383,0,no,northeast,35,female,26.125,5227.98875,Overweight,Adult
+PLC167500,0,no,northeast,23,female,34.865,2899.48935,Obese,Young Adult
+PLC167518,1,no,northeast,42,female,41.325,7650.77375,Obese,Adult
+PLC167545,1,no,northeast,48,female,27.36,9447.3824,Overweight,Middle Aged
+PLC167563,2,no,northeast,45,male,23.56,8603.8234,Normal,Adult
+PLC167617,1,no,northeast,41,female,21.755,13725.47184,Normal,Adult
+PLC167626,1,no,northeast,58,female,32.395,13019.16105,Obese,Middle Aged
+PLC167725,1,no,northeast,51,male,32.3,9964.06,Obese,Middle Aged
+PLC167806,0,no,northeast,18,male,21.47,1702.4553,Normal,Teen
+PLC167833,0,no,northeast,18,male,39.14,12890.05765,Obese,Teen
+PLC167878,1,no,northeast,30,female,21.945,4718.20355,Normal,Young Adult
+PLC167914,1,no,northeast,41,male,23.94,6858.4796,Normal,Adult
+PLC167932,2,no,northeast,38,male,16.815,6640.54485,Underweight,Adult
+PLC167959,0,no,northeast,58,male,30.305,11938.25595,Obese,Middle Aged
+PLC168022,0,no,northeast,63,female,21.66,14449.8544,Normal,Senior
+PLC168040,3,no,northeast,37,male,22.705,6985.50695,Normal,Adult
+PLC168229,0,no,northeast,52,female,23.18,10197.7722,Normal,Middle Aged
+PLC168238,0,no,northeast,32,female,20.52,4544.2348,Normal,Adult
+PLC168274,2,no,northeast,49,female,33.345,10370.91255,Obese,Middle Aged
+PLC168382,0,no,northeast,22,female,30.4,2741.948,Obese,Young Adult
+PLC168463,0,no,northeast,47,female,24.32,8534.6718,Normal,Middle Aged
+PLC168472,0,no,northeast,28,female,17.29,3732.6251,Underweight,Young Adult
+PLC168508,2,no,northeast,38,female,19.95,7133.9025,Normal,Adult
+PLC168544,0,no,northeast,58,male,25.175,11931.12525,Overweight,Middle Aged
+PLC168562,0,no,northeast,18,male,26.125,1708.92575,Overweight,Teen
+PLC168733,1,no,northeast,18,male,28.31,11272.33139,Overweight,Teen
+PLC168760,4,no,northeast,35,male,39.71,19496.71917,Obese,Adult
+PLC168823,0,no,northeast,61,male,33.535,13143.33665,Obese,Senior
+PLC168832,0,no,northeast,42,female,32.87,7050.0213,Obese,Adult
+PLC168850,2,no,northeast,23,female,24.225,22395.74424,Normal,Young Adult
+PLC168904,0,no,northeast,18,female,31.92,2205.9808,Obese,Teen
+PLC156898,0,yes,southwest,19,female,27.9,16884.924,Overweight,Young Adult
+PLC157069,0,yes,southwest,30,male,35.3,36837.467,Obese,Young Adult
+PLC157159,2,yes,southwest,31,male,36.3,38711.0,Obese,Adult
+PLC157168,0,yes,southwest,22,male,35.6,35585.576,Obese,Young Adult
+PLC157204,1,yes,southwest,28,male,36.4,51194.55914,Obese,Young Adult
+PLC157249,0,yes,southwest,60,male,39.9,48173.361,Obese,Middle Aged
+PLC157366,1,yes,southwest,48,male,28.0,23568.272,Overweight,Middle Aged
+PLC157654,2,yes,southwest,37,female,34.8,39836.519,Obese,Adult
+PLC157744,2,yes,southwest,64,female,31.3,47291.055,Obese,Senior
+PLC157789,0,yes,southwest,38,male,19.3,15820.699,Normal,Adult
+PLC158032,0,yes,southwest,19,female,28.3,17081.08,Overweight,Young Adult
+PLC158473,0,yes,southwest,63,female,37.7,48824.45,Obese,Senior
+PLC158905,0,yes,southwest,19,male,34.8,34779.615,Obese,Young Adult
+PLC159157,2,yes,southwest,63,female,32.2,47305.305,Obese,Senior
+PLC159337,2,yes,southwest,50,male,34.2,42856.838,Obese,Middle Aged
+PLC159562,0,yes,southwest,19,male,27.7,16297.846,Overweight,Young Adult
+PLC159724,0,yes,southwest,27,female,31.4,34838.873,Obese,Young Adult
+PLC159796,0,yes,southwest,34,male,30.8,35491.64,Obese,Adult
+PLC159850,1,yes,southwest,64,female,33.8,47928.03,Obese,Senior
+PLC160156,0,yes,southwest,19,female,21.7,13844.506,Normal,Young Adult
+PLC160255,2,yes,southwest,26,male,32.9,36085.219,Obese,Young Adult
+PLC160651,2,yes,southwest,36,female,22.6,18608.262,Normal,Adult
+PLC160867,0,yes,southwest,33,female,33.5,37079.372,Obese,Adult
+PLC161047,0,yes,southwest,42,male,30.0,22144.032,Obese,Adult
+PLC161164,3,yes,southwest,54,male,25.1,25382.297,Overweight,Middle Aged
+PLC161344,4,yes,southwest,21,male,25.7,17942.106,Overweight,Young Adult
+PLC161398,0,yes,southwest,29,male,34.4,36197.699,Obese,Young Adult
+PLC161524,1,yes,southwest,39,male,28.3,21082.16,Overweight,Adult
+PLC162379,2,yes,southwest,30,male,37.8,39241.442,Obese,Young Adult
+PLC162451,2,yes,southwest,49,male,25.6,23306.547,Overweight,Middle Aged
+PLC162487,4,yes,southwest,37,male,34.1,40182.246,Obese,Adult
+PLC163036,2,yes,southwest,39,male,35.3,40103.89,Obese,Adult
+PLC163549,2,yes,southwest,29,male,35.5,44585.45587,Obese,Young Adult
+PLC163756,1,yes,southwest,33,male,27.1,19040.876,Overweight,Adult
+PLC163918,3,yes,southwest,30,male,24.4,18259.216,Normal,Young Adult
+PLC163945,1,yes,southwest,50,female,27.6,24520.264,Overweight,Middle Aged
+PLC164638,2,yes,southwest,37,female,47.6,46113.511,Obese,Adult
+PLC165079,0,yes,southwest,32,female,24.6,17496.306,Normal,Adult
+PLC165439,3,yes,southwest,25,male,29.7,19933.458,Overweight,Young Adult
+PLC165475,2,yes,southwest,44,male,30.2,38998.546,Obese,Adult
+PLC165736,3,yes,southwest,31,male,25.9,19199.944,Overweight,Adult
+PLC165907,0,yes,southwest,24,male,32.7,34472.841,Obese,Young Adult
+PLC166339,0,yes,southwest,49,male,30.9,39727.614,Obese,Middle Aged
+PLC166375,3,yes,southwest,47,male,29.8,25309.489,Overweight,Middle Aged
+PLC166663,5,yes,southwest,39,female,18.3,19023.26,Underweight,Adult
+PLC166978,0,yes,southwest,23,female,31.4,34166.273,Obese,Young Adult
+PLC167212,0,yes,southwest,60,male,32.8,52590.82939,Obese,Middle Aged
+PLC167437,2,yes,southwest,43,female,26.7,22478.6,Overweight,Adult
+PLC167761,2,yes,southwest,36,male,33.4,38415.474,Obese,Adult
+PLC167860,1,yes,southwest,46,female,34.6,41661.602,Obese,Middle Aged
+PLC167977,0,yes,southwest,20,female,21.8,20167.33603,Normal,Young Adult
+PLC168166,0,yes,southwest,20,male,27.3,16232.847,Overweight,Young Adult
+PLC168454,1,yes,southwest,61,male,36.3,47403.88,Obese,Senior
+PLC168490,2,yes,southwest,20,male,39.4,38344.566,Obese,Young Adult
+PLC168517,0,yes,southwest,19,male,34.9,34828.654,Obese,Young Adult
+PLC168625,0,yes,southwest,43,male,27.8,37829.7242,Overweight,Adult
+PLC168670,0,yes,southwest,25,female,30.2,33900.653,Obese,Young Adult
+PLC168715,2,yes,southwest,19,female,34.7,36397.576,Obese,Young Adult
+PLC156997,0,yes,southeast,62,female,26.29,27808.7251,Overweight,Senior
+PLC157024,0,yes,southeast,27,male,42.13,39611.7577,Obese,Young Adult
+PLC157339,1,yes,southeast,36,male,35.2,38709.176,Obese,Adult
+PLC157375,0,yes,southeast,36,male,34.43,37742.5757,Obese,Adult
+PLC157411,2,yes,southeast,18,male,31.68,34303.1672,Obese,Teen
+PLC157420,1,yes,southeast,53,female,22.88,23244.7902,Normal,Middle Aged
+PLC157519,3,yes,southeast,28,male,23.98,17663.1442,Normal,Young Adult
+PLC157528,0,yes,southeast,27,female,24.75,16577.7795,Normal,Young Adult
+PLC157636,1,yes,southeast,22,male,37.62,37165.1638,Obese,Young Adult
+PLC157825,3,yes,southeast,61,female,29.92,30942.1918,Overweight,Senior
+PLC157879,0,yes,southeast,63,male,35.09,47055.5321,Obese,Senior
+PLC157951,1,yes,southeast,29,female,27.94,19107.7796,Overweight,Young Adult
+PLC158176,2,yes,southeast,34,male,25.3,18972.495,Overweight,Adult
+PLC158302,0,yes,southeast,48,male,24.42,21223.6758,Normal,Middle Aged
+PLC158320,0,yes,southeast,30,male,35.53,36950.2567,Obese,Young Adult
+PLC158347,0,yes,southeast,18,female,36.85,36149.4835,Obese,Teen
+PLC158725,0,yes,southeast,27,female,36.08,37133.8982,Obese,Young Adult
+PLC158914,0,yes,southeast,42,male,24.64,19515.5416,Normal,Adult
+PLC159013,2,yes,southeast,40,female,22.22,19444.2658,Normal,Adult
+PLC159166,2,yes,southeast,54,male,34.21,44260.7499,Obese,Middle Aged
+PLC159247,1,yes,southeast,20,female,26.84,17085.2676,Overweight,Young Adult
+PLC159283,3,yes,southeast,46,male,42.35,46151.1245,Obese,Middle Aged
+PLC159292,1,yes,southeast,40,male,19.8,17179.522,Normal,Adult
+PLC159526,2,yes,southeast,25,male,45.54,42112.2356,Obese,Young Adult
+PLC159571,1,yes,southeast,47,male,25.41,21978.6769,Overweight,Middle Aged
+PLC159706,3,yes,southeast,43,male,35.97,42124.5153,Obese,Adult
+PLC160291,0,yes,southeast,24,male,40.15,38126.2465,Obese,Young Adult
+PLC160678,0,yes,southeast,64,male,33.88,46889.2612,Obese,Senior
+PLC160687,0,yes,southeast,61,male,35.86,46599.1084,Obese,Senior
+PLC161083,1,yes,southeast,30,female,28.38,19521.9682,Overweight,Young Adult
+PLC161290,0,yes,southeast,44,female,38.06,48885.13561,Obese,Adult
+PLC161416,1,yes,southeast,51,male,23.21,22218.1149,Normal,Middle Aged
+PLC161425,0,yes,southeast,19,male,30.25,32548.3405,Obese,Young Adult
+PLC161614,1,yes,southeast,42,male,26.07,38245.59327,Overweight,Adult
+PLC161668,1,yes,southeast,57,male,42.13,48675.5177,Obese,Middle Aged
+PLC161785,0,yes,southeast,54,female,47.41,63770.42801,Obese,Middle Aged
+PLC161839,0,yes,southeast,43,female,46.2,45863.205,Obese,Adult
+PLC162433,1,yes,southeast,47,female,36.63,42969.8527,Obese,Middle Aged
+PLC162460,0,yes,southeast,19,female,33.11,34439.8559,Obese,Young Adult
+PLC162793,2,yes,southeast,52,female,25.3,24667.419,Overweight,Middle Aged
+PLC162874,0,yes,southeast,64,female,22.99,27037.9141,Normal,Senior
+PLC162883,2,yes,southeast,43,male,38.06,42560.4304,Obese,Adult
+PLC162964,2,yes,southeast,44,female,43.89,46200.9851,Obese,Adult
+PLC163099,1,yes,southeast,27,male,31.13,34806.4677,Obese,Young Adult
+PLC163171,1,yes,southeast,41,male,35.75,40273.6455,Obese,Adult
+PLC163252,0,yes,southeast,51,female,38.06,44400.4064,Obese,Middle Aged
+PLC163423,3,yes,southeast,30,female,39.05,40932.4295,Obese,Young Adult
+PLC163468,3,yes,southeast,35,male,24.42,19361.9988,Normal,Adult
+PLC163522,0,yes,southeast,37,female,38.39,40419.0191,Obese,Adult
+PLC163567,0,yes,southeast,27,male,29.15,18246.4955,Overweight,Young Adult
+PLC163648,0,yes,southeast,37,female,26.4,19539.243,Overweight,Adult
+PLC163711,0,yes,southeast,47,female,27.83,23065.4207,Overweight,Middle Aged
+PLC163729,0,yes,southeast,18,male,38.17,36307.7983,Obese,Teen
+PLC164035,0,yes,southeast,53,male,20.9,21195.818,Normal,Middle Aged
+PLC164125,0,yes,southeast,18,female,42.24,38792.6856,Obese,Teen
+PLC164332,2,yes,southeast,56,male,31.79,43813.8661,Obese,Middle Aged
+PLC164476,2,yes,southeast,23,female,32.78,36021.0112,Obese,Young Adult
+PLC164485,0,yes,southeast,57,female,29.81,27533.9129,Overweight,Middle Aged
+PLC164503,0,yes,southeast,60,female,32.45,45008.9555,Obese,Middle Aged
+PLC164602,0,yes,southeast,48,female,33.11,40974.1649,Obese,Middle Aged
+PLC164863,1,yes,southeast,32,male,28.93,19719.6947,Overweight,Adult
+PLC164935,2,yes,southeast,47,male,38.94,44202.6536,Obese,Middle Aged
+PLC165007,0,yes,southeast,60,male,40.92,48673.5588,Obese,Middle Aged
+PLC165457,2,yes,southeast,51,male,42.9,47462.894,Obese,Middle Aged
+PLC165502,1,yes,southeast,54,male,30.8,41999.52,Obese,Middle Aged
+PLC165997,2,yes,southeast,43,male,20.13,18767.7377,Normal,Adult
+PLC166087,3,yes,southeast,22,female,31.02,35595.5898,Obese,Young Adult
+PLC166096,1,yes,southeast,47,male,36.08,42211.1382,Obese,Middle Aged
+PLC166177,0,yes,southeast,55,female,35.2,44423.803,Obese,Middle Aged
+PLC166222,2,yes,southeast,22,male,37.07,37484.4493,Obese,Young Adult
+PLC166321,1,yes,southeast,22,male,52.58,44501.3982,Obese,Young Adult
+PLC166456,1,yes,southeast,59,male,41.14,48970.2476,Obese,Middle Aged
+PLC166528,1,yes,southeast,37,male,37.07,39871.7043,Obese,Adult
+PLC166600,0,yes,southeast,28,male,31.68,34672.1472,Obese,Young Adult
+PLC166708,0,yes,southeast,47,male,36.19,41676.0811,Obese,Middle Aged
+PLC166897,3,yes,southeast,38,male,38.39,41949.2441,Obese,Adult
+PLC166906,3,yes,southeast,48,female,25.85,24180.9335,Overweight,Middle Aged
+PLC166951,2,yes,southeast,25,male,33.33,36124.5737,Obese,Young Adult
+PLC166960,1,yes,southeast,33,male,35.75,38282.7495,Obese,Adult
+PLC167266,3,yes,southeast,43,female,32.56,40941.2854,Obese,Adult
+PLC167302,0,yes,southeast,19,male,44.88,39722.7462,Obese,Young Adult
+PLC167509,0,yes,southeast,31,male,29.81,19350.3689,Overweight,Adult
+PLC167554,1,yes,southeast,23,female,28.49,18328.2381,Overweight,Young Adult
+PLC167734,3,yes,southeast,18,female,27.28,18223.4512,Overweight,Teen
+PLC167905,0,yes,southeast,20,female,24.42,26125.67477,Normal,Young Adult
+PLC168058,2,yes,southeast,52,male,41.8,47269.854,Obese,Middle Aged
+PLC168067,2,yes,southeast,64,male,36.96,49577.6624,Obese,Senior
+PLC168283,0,yes,southeast,64,male,23.76,26926.5144,Normal,Senior
+PLC168364,0,yes,southeast,26,male,27.06,17043.3414,Overweight,Young Adult
+PLC168598,0,yes,southeast,45,male,30.36,62592.87309,Obese,Adult
+PLC168805,2,yes,southeast,42,female,40.37,43896.3763,Obese,Adult
+PLC157393,2,yes,northwest,58,male,36.955,47496.49445,Obese,Middle Aged
+PLC157474,0,yes,northwest,20,female,22.42,14711.7438,Normal,Young Adult
+PLC157663,2,yes,northwest,45,male,22.895,21098.55405,Normal,Adult
+PLC157672,0,yes,northwest,57,female,31.16,43578.9394,Obese,Middle Aged
+PLC157843,1,yes,northwest,20,male,28.025,17560.37975,Overweight,Young Adult
+PLC158050,2,yes,northwest,32,female,17.765,32734.1863,Underweight,Adult
+PLC158194,3,yes,northwest,30,male,28.69,20745.9891,Overweight,Young Adult
+PLC158212,3,yes,northwest,46,male,30.495,40720.55105,Obese,Middle Aged
+PLC158338,0,yes,northwest,42,female,26.6,21348.706,Overweight,Adult
+PLC159040,0,yes,northwest,19,male,29.07,17352.6803,Overweight,Young Adult
+PLC159202,0,yes,northwest,56,male,33.63,43921.1837,Obese,Middle Aged
+PLC159229,0,yes,northwest,19,male,31.92,33750.2918,Obese,Young Adult
+PLC159265,0,yes,northwest,19,male,36.955,36219.40545,Obese,Young Adult
+PLC159580,3,yes,northwest,31,male,34.39,38746.3551,Obese,Adult
+PLC159841,2,yes,northwest,45,male,36.48,42760.5022,Obese,Adult
+PLC159877,0,yes,northwest,52,male,27.36,24393.6224,Overweight,Middle Aged
+PLC160273,0,yes,northwest,23,female,28.31,18033.9679,Overweight,Young Adult
+PLC160669,0,yes,northwest,63,female,26.98,28950.4692,Overweight,Senior
+PLC160894,1,yes,northwest,56,male,26.695,26109.32905,Overweight,Middle Aged
+PLC161173,1,yes,northwest,61,male,28.31,28868.6639,Overweight,Senior
+PLC161803,2,yes,northwest,49,male,25.84,23807.2406,Overweight,Middle Aged
+PLC161920,3,yes,northwest,35,female,34.105,39983.42595,Obese,Adult
+PLC162019,2,yes,northwest,48,male,40.565,45702.02235,Obese,Middle Aged
+PLC162181,1,yes,northwest,34,female,30.21,43943.8761,Obese,Adult
+PLC162334,0,yes,northwest,19,female,28.31,17468.9839,Overweight,Young Adult
+PLC162361,0,yes,northwest,59,female,23.655,25678.77845,Normal,Middle Aged
+PLC162559,0,yes,northwest,44,female,38.95,42983.4585,Obese,Adult
+PLC162667,3,yes,northwest,42,male,28.31,32787.45859,Overweight,Adult
+PLC162901,2,yes,northwest,40,female,32.775,40003.33225,Obese,Adult
+PLC162991,3,yes,northwest,60,male,31.35,46130.5265,Obese,Middle Aged
+PLC163855,0,yes,northwest,19,female,28.88,17748.5062,Overweight,Young Adult
+PLC164053,0,yes,northwest,27,male,28.5,18310.742,Overweight,Young Adult
+PLC164269,0,yes,northwest,33,female,35.53,55135.40209,Obese,Adult
+PLC164611,0,yes,northwest,25,male,24.13,15817.9857,Normal,Young Adult
+PLC164908,0,yes,northwest,64,female,26.885,29330.98315,Overweight,Senior
+PLC165142,0,yes,northwest,43,female,26.885,21774.32215,Overweight,Adult
+PLC165484,1,yes,northwest,34,male,27.835,20009.63365,Overweight,Adult
+PLC165592,2,yes,northwest,51,male,24.795,23967.38305,Normal,Middle Aged
+PLC165844,3,yes,northwest,27,female,20.045,16420.49455,Normal,Young Adult
+PLC165898,2,yes,northwest,30,male,22.99,17361.7661,Normal,Young Adult
+PLC165961,3,yes,northwest,47,male,28.215,24915.22085,Overweight,Middle Aged
+PLC166132,1,yes,northwest,19,male,26.03,16450.8947,Overweight,Young Adult
+PLC166168,1,yes,northwest,46,female,23.655,21677.28345,Normal,Middle Aged
+PLC166231,1,yes,northwest,45,female,30.495,39725.51805,Obese,Adult
+PLC166258,0,yes,northwest,35,female,28.025,20234.85475,Overweight,Adult
+PLC166303,2,yes,northwest,43,female,24.7,21880.82,Normal,Adult
+PLC166735,0,yes,northwest,22,female,30.4,33907.548,Obese,Young Adult
+PLC166996,3,yes,northwest,53,female,36.86,46661.4424,Obese,Middle Aged
+PLC167149,0,yes,northwest,19,female,32.49,36898.73308,Obese,Young Adult
+PLC167482,1,yes,northwest,52,female,24.13,23887.6627,Normal,Middle Aged
+PLC167572,3,yes,northwest,20,male,35.625,37465.34375,Obese,Young Adult
+PLC167662,0,yes,northwest,19,female,30.02,33307.5508,Obese,Young Adult
+PLC167968,3,yes,northwest,52,male,34.485,60021.39897,Obese,Middle Aged
+PLC168427,2,yes,northwest,47,female,27.645,24535.69855,Overweight,Middle Aged
+PLC168607,3,yes,northwest,62,male,30.875,46718.16325,Obese,Senior
+PLC168661,4,yes,northwest,32,male,28.12,21472.4788,Overweight,Adult
+PLC168724,3,yes,northwest,30,female,23.655,18765.87545,Normal,Young Adult
+PLC168931,0,yes,northwest,61,female,29.07,29141.3603,Overweight,Senior
+PLC157105,1,yes,northeast,34,female,31.92,37701.8768,Obese,Adult
+PLC157240,1,yes,northeast,35,male,36.67,39774.2763,Obese,Adult
+PLC157726,3,yes,northeast,59,male,29.83,30184.9367,Overweight,Middle Aged
+PLC157780,0,yes,northeast,56,male,19.95,22412.6485,Normal,Middle Aged
+PLC158005,1,yes,northeast,44,male,31.35,39556.4945,Obese,Adult
+PLC158275,0,yes,northeast,42,female,23.37,19964.7463,Normal,Adult
+PLC158311,0,yes,northeast,18,male,25.175,15518.18025,Overweight,Teen
+PLC158563,3,yes,northeast,36,male,41.895,43753.33705,Obese,Adult
+PLC158761,2,yes,northeast,35,male,27.74,20984.0936,Overweight,Adult
+PLC159058,2,yes,northeast,23,female,36.67,38511.6283,Obese,Young Adult
+PLC159094,0,yes,northeast,63,female,27.74,29523.1656,Overweight,Senior
+PLC159148,2,yes,northeast,18,male,17.29,12829.4551,Underweight,Teen
+PLC159184,0,yes,northeast,50,male,31.825,41097.16175,Obese,Middle Aged
+PLC159256,3,yes,northeast,52,male,24.32,24869.8368,Normal,Middle Aged
+PLC159418,1,yes,northeast,40,female,28.12,22331.5668,Overweight,Adult
+PLC159427,3,yes,northeast,54,male,40.565,48549.17835,Obese,Middle Aged
+PLC159490,1,yes,northeast,59,female,36.765,47896.79135,Obese,Middle Aged
+PLC159607,3,yes,northeast,53,female,22.61,24873.3849,Normal,Middle Aged
+PLC159868,1,yes,northeast,61,female,36.385,48517.56315,Obese,Senior
+PLC159940,1,yes,northeast,50,male,32.3,41919.097,Obese,Middle Aged
+PLC160282,3,yes,northeast,39,female,24.89,21659.9301,Normal,Adult
+PLC160318,2,yes,northeast,27,female,17.955,15006.57945,Underweight,Young Adult
+PLC160327,0,yes,northeast,55,male,30.685,42303.69215,Obese,Middle Aged
+PLC160597,1,yes,northeast,44,female,20.235,19594.80965,Normal,Adult
+PLC160606,2,yes,northeast,26,female,17.195,14455.64405,Underweight,Young Adult
+PLC160696,1,yes,northeast,40,male,32.775,39125.33225,Obese,Adult
+PLC161182,0,yes,northeast,24,male,28.5,35147.52848,Overweight,Young Adult
+PLC162091,1,yes,northeast,31,female,38.095,58571.07448,Obese,Adult
+PLC162235,1,yes,northeast,21,female,21.85,15359.1045,Normal,Young Adult
+PLC162505,0,yes,northeast,18,male,33.535,34617.84065,Obese,Teen
+PLC162640,0,yes,northeast,39,male,26.41,20149.3229,Overweight,Adult
+PLC162910,0,yes,northeast,62,male,32.015,45710.20785,Obese,Senior
+PLC163441,1,yes,northeast,29,female,21.755,16657.71745,Normal,Young Adult
+PLC163540,3,yes,northeast,23,male,31.73,36189.1017,Obese,Young Adult
+PLC163576,0,yes,northeast,53,male,34.105,43254.41795,Obese,Middle Aged
+PLC164089,0,yes,northeast,33,male,24.795,17904.52705,Normal,Adult
+PLC164260,1,yes,northeast,47,female,26.125,23401.30575,Overweight,Middle Aged
+PLC164341,1,yes,northeast,36,male,28.025,20773.62775,Overweight,Adult
+PLC164350,3,yes,northeast,41,male,30.78,39597.4072,Obese,Adult
+PLC164548,0,yes,northeast,37,female,30.78,37270.1512,Obese,Adult
+PLC164566,0,yes,northeast,46,female,35.53,42111.6647,Obese,Middle Aged
+PLC164584,3,yes,northeast,49,female,23.845,24106.91255,Normal,Middle Aged
+PLC164845,3,yes,northeast,51,female,37.05,46255.1125,Obese,Middle Aged
+PLC164872,0,yes,northeast,57,male,28.975,27218.43725,Overweight,Middle Aged
+PLC164962,2,yes,northeast,43,female,20.045,19798.05455,Normal,Adult
+PLC165097,0,yes,northeast,18,male,31.73,33732.6867,Obese,Teen
+PLC165151,0,yes,northeast,45,male,22.895,35069.37452,Normal,Adult
+PLC165421,1,yes,northeast,37,male,34.2,39047.285,Obese,Adult
+PLC165520,1,yes,northeast,43,male,34.96,41034.2214,Obese,Adult
+PLC165673,0,yes,northeast,29,male,22.895,16138.76205,Normal,Young Adult
+PLC165799,0,yes,northeast,24,female,20.52,14571.8908,Normal,Young Adult
+PLC166195,0,yes,northeast,18,male,21.565,13747.87235,Normal,Teen
+PLC166276,0,yes,northeast,20,male,30.685,33475.81715,Obese,Young Adult
+PLC166762,2,yes,northeast,51,female,34.96,44641.1974,Obese,Middle Aged
+PLC166798,2,yes,northeast,33,female,19.095,16776.30405,Normal,Adult
+PLC167014,1,yes,northeast,23,female,42.75,40904.1995,Obese,Young Adult
+PLC167428,1,yes,northeast,18,male,27.36,17178.6824,Overweight,Teen
+PLC167590,1,yes,northeast,43,female,25.27,21771.3423,Overweight,Adult
+PLC167770,1,yes,northeast,37,female,25.555,20296.86345,Overweight,Adult
+PLC168139,1,yes,northeast,32,male,33.63,37607.5277,Obese,Adult
+PLC168148,0,yes,northeast,24,male,29.83,18648.4217,Overweight,Young Adult
+PLC168301,0,yes,northeast,24,male,31.065,34254.05335,Obese,Young Adult
+PLC168400,1,yes,northeast,39,male,29.925,22462.04375,Overweight,Adult
+PLC168436,0,yes,northeast,18,female,21.66,14283.4594,Normal,Teen
+PLC168634,2,yes,northeast,42,male,24.605,21259.37795,Normal,Adult
+PLC168652,0,yes,northeast,29,female,21.85,16115.3045,Normal,Young Adult
+PLC168787,0,yes,northeast,62,male,26.695,28101.33305,Overweight,Senior
